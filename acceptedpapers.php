@@ -44,7 +44,7 @@
             {{title}}
           </h6>
           <p>
-            {{author}}
+            {{authors}}
             <!-- <br>
             <span class="font-italic">{{affiliations}}</span> -->
           </p>

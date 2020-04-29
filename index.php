@@ -21,24 +21,18 @@
     serves to give you an idea of what the structure of this page has looked like in the past -->
     <p class="alert alert-info">
       <b>
-        Due to the coronavirus spread, Eurocrypt 2020 will be
-        virtual. The dates of this event are (close to) the original
-        dates: May 11-15 2020.
+        PKC 2020 goes online with new dates: June 1-4 2020. Please stay tuned for more information.
       </b>
     </p>
 
     <div class="row mb-2">
       <article class="col-12">
         <p>
-          <!-- <span class="long_conf"><?php echo $META['shortName'];?></span> will take place 
-          <span class="conf_location"><?php echo $META['city'] . ', ' . $META['country'];?></span>
-          on <span class="conf_dates"><?php echo $META['dates'];?></span>.-->
-            <span class="long_conf"><?php echo $META['shortName'];?></span> is the 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. Eurocrypt is one of the three flagship conferences of <a href="http://iacr.org/">the International Association for Cryptologic Research</a> (IACR). This is the first Eurocrypt to be run as a virtual conference.
+          The IACR International Conference on Practice and Theory of Public-Key Cryptography (PKC) is the main annual conference focusing on all aspects of public-key cryptography, attracting cutting-edge results from world-renowned researchers in the area.
         </p>
-        <!-- <p class="editMe">
-          Please visit the <a href="./callforpapers.php">call for papers</a> page while we work on
-          adding more information to our other pages. Thank you for your patience.
-        </p>-->
+        <p>
+          <span class="long_conf"><?php echo $META['shortName'];?></span> is sponsored by <a href="http://iacr.org/">the International Association for Cryptologic Research</a> (IACR).
+        </p>
         <!-- TODO: place countdown timer to next session here perhaps? -->
       </article>
     </div>
@@ -56,84 +50,72 @@
           </h4>
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              April 18 2020
+              April 16 2020
             </h6>
             <p class="col-7 col-md-8">
-              Conference website updated for virtual conference. Further details will
-              appear on new site.
+              New dates for online conference
             </p>
           </div>
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              April 7 2020
+              March 12 2020
             </h6>
             <p class="col-7 col-md-8">
-              It has been decided that due to the coronavirus spread
-              Eurocrypt 2020 will be virtual.
+              Conference postponed due to the COVID-19 crisis
             </p>
           </div>
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              February 21 2020
+              March 1 2020
             </h6>
             <p class="col-7 col-md-8">
-              <a href="acceptedpapers.php">The list of accepted papers</a> is now online.
+              <a href="program.php">Program</a> online
             </p>
           </div>
-<!--          <div class="customCardRow row">
+         <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              February 20 2020
+              February 19 2020
             </h6>
             <p class="col-7 col-md-8">
-              <a href="stipends.php">Deadline for student stipend
-              application (Round II)</a> has been extended.
+              <a href="registration.php">Registration</a> activated
             </p>
           </div>
-          <div class="customCardRow row">
+          <!-- TODO: add this page! -->
+          <!-- <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              February 14 2020
+              February 18 2020
             </h6>
             <p class="col-7 col-md-8">
-              <a href="stipends.php">Deadline for student stipend
-              application (Round I)</a> is now closed.
+              <a href="adl.php">Advances in Distributed Ledgers workshop</a> online
             </p>
-          </div>
+          </div> -->
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              December 12 2019
+              February 15 2020
             </h6>
             <p class="col-7 col-md-8">
-              <a href="stipends.php">Deadline for student stipend
-              application (Round I)</a> is now open
-            </p>
-          </div>-->
-          <div class="customCardRow row">
-            <h6 class="dateTitle col-5 col-md-4">
-              September 10 2019
-            </h6>
-            <p class="col-7 col-md-8">
-              Submission server is now open.
+              <a href="accepted.php">Accepted papers</a> online
             </p>
           </div>
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              June 21 2019
+              October 9 2019
             </h6>
             <p class="col-7 col-md-8">
-              <a href="./callforpapers.php">Call for papers</a> page updated
+              <a href="papersubmission.php">Submission server</a> online
             </p>
           </div>
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              April 1 2019
+              April 12 2019
             </h6>
             <p class="col-7 col-md-8">
-              Call for affiliated events is now open.
+              <a href="callforpapers.php">Call for papers</a> page online
             </p>
           </div>
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              February 12 2019
+              April 12 2019
             </h6>
             <p class="col-7 col-md-8">
               Website launched

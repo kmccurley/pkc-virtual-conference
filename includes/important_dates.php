@@ -11,50 +11,34 @@
   </h4>
   <div class="customCardRow row">
     <h6 class="dateTitle col-5 col-md-4 past">
-        September 26 2019
+      November 2 2019
     </h6>
     <p class="col-7 col-md-8">
-      Submission deadline at 21:00 UTC
+      Submission deadline at 21:59:59 UTC
     </p>
   </div>
   <div class="customCardRow row">
     <h6 class="dateTitle col-5 col-md-4 past">
-      December 2 2019
+      December 9 2019
     </h6>
     <p class="col-7 col-md-8">
-      Reviews sent out for rebuttals
+      Rebuttal
     </p>
   </div>
   <div class="customCardRow row">
     <h6 class="dateTitle col-5 col-md-4 past">
-      December 6 2019
+      January 18 2020
     </h6>
     <p class="col-7 col-md-8">
-      Rebuttals due by 23:59 CET
+      Author notification
     </p>
   </div>
   <div class="customCardRow row">
     <h6 class="dateTitle col-5 col-md-4 past">
-      January 21 2020
+      February 2 2020
     </h6>
     <p class="col-7 col-md-8">
-      Final notification
-    </p>
-  </div>
-  <div class="customCardRow row">
-    <h6 class="dateTitle col-5 col-md-4 past">
-      February 20 2020
-    </h6>
-    <p class="col-7 col-md-8">
-      Final version due
-    </p>
-  </div>
-  <div class="customCardRow row">
-    <h6 class="dateTitle col-5 col-md-4">
-      May 4 2020
-    </h6>
-    <p class="col-7 col-md-8">
-      Speaker videos due
+      Camera-ready version
     </p>
   </div>
   <div class="customCardRow row">
@@ -62,7 +46,7 @@
       <?php echo $META['dates'];?>
     </h6>
     <p class="col-7 col-md-8">
-      Conference dates
+      Online conference
     </p>
   </div>
   <div class="customCardFooter">
