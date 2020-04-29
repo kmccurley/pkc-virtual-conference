@@ -21,7 +21,7 @@
     serves to give you an idea of what the structure of this page has looked like in the past -->
     <p class="alert alert-info">
       <b>
-        PKC 2020 goes online with new dates: June 1-4, 2020. Please stay tuned for more information.
+        PKC 2020 goes online with new dates: June 1-4 2020. Please stay tuned for more information.
       </b>
     </p>
 
