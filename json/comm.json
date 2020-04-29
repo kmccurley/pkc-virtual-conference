@@ -1,347 +1,239 @@
 {
+  "_source": "https://www.iacr.org/cryptodb/pc",
   "committee": [
     {
-      "affiliation": "National University of Singapore",
-      "lastname": "Aggarwal",
-      "id": 5732,
-      "name": "Divesh Aggarwal"
+      "affiliation": "UMD, USA",
+      "lastname": "Alagic",
+      "name": "Gorjan Alagic",
+      "id": 10275
     },
     {
-      "affiliation": "Tel Aviv University",
-      "lastname": "Applebaum",
-      "id": 1691,
-      "name": "Benny Applebaum"
+      "affiliation": "Bar-Ilan University, Israel",
+      "lastname": "Asharov",
+      "name": "Gilad Asharov",
+      "id": 6084
     },
     {
-      "affiliation": "STMicroelectronics",
-      "lastname": "Assche",
-      "id": 2090,
-      "name": "Gilles Van Assche"
+      "affiliation": "AIST, Japan",
+      "lastname": "Attrapadung",
+      "name": "Nuttapong Attrapadung",
+      "id": 123
     },
     {
-      "affiliation": "Algorand Foundation",
-      "lastname": "Benhamouda",
-      "id": 7977,
-      "name": "Fabrice Benhamouda"
+      "affiliation": "NXP, Germany",
+      "lastname": "Bos",
+      "name": "Joppe W. Bos",
+      "id": 6304
     },
     {
-      "affiliation": "IDC Herzliya",
-      "lastname": "Boyle",
-      "id": 7596,
-      "name": "Elette Boyle"
+      "affiliation": "TU Hamburg, Germany",
+      "lastname": "Brzuska",
+      "name": "Chris Brzuska",
+      "id": 6164
     },
     {
-      "affiliation": "Weizmann Institute of Science",
-      "lastname": "Brakerski",
-      "id": 6059,
-      "name": "Zvika Brakerski"
-    },
-    {
-      "affiliation": "University of Ottawa",
-      "lastname": "Broadbent",
-      "id": 580,
-      "name": "Anne Broadbent"
-    },
-    {
-      "affiliation": "Microsoft Research",
-      "lastname": "Chandran",
-      "id": 3990,
-      "name": "Nishanth Chandran"
-    },
-    {
-      "affiliation": "Visa Research",
+      "affiliation": "U. Surrey, UK",
       "lastname": "Chen",
-      "id": 9689,
-      "name": "Yilei Chen"
+      "name": "Liqun Chen",
+      "id": 226
     },
     {
-      "affiliation": "Boston University and Northeastern University",
-      "lastname": "Cohen",
-      "id": 9299,
-      "name": "Ran Cohen"
+      "affiliation": "Academia Sinica, Taiwan",
+      "lastname": "Chung",
+      "name": "Kai-Min Chung",
+      "id": 6180
     },
     {
-      "affiliation": "MIT",
-      "lastname": "Cohen",
-      "id": 9106,
-      "name": "Aloni Cohen"
+      "affiliation": "UMD, USA",
+      "lastname": "Dahman-Soled",
+      "name": "Dana Dachman-Soled",
+      "id": 4319
     },
     {
-      "affiliation": "Karlsruhe Institute of Technology",
-      "lastname": "Couteau",
-      "id": 9401,
-      "name": "Geoffroy Couteau"
+      "affiliation": "TU Darmstadt",
+      "lastname": "Faust",
+      "name": "Sebastian Faust",
+      "id": 4420
     },
     {
-      "affiliation": "Radboud University",
-      "lastname": "Daemen",
-      "id": 45,
-      "name": "Joan Daemen"
+      "affiliation": "IMDEA Software Institute, Madrid, Spain",
+      "lastname": "Fiore",
+      "name": "Dario Fiore",
+      "id": 4428
     },
     {
-      "affiliation": "CWI Amsterdam",
-      "lastname": "Ducas",
-      "id": 7880,
-      "name": "L\u00e9o Ducas"
+      "affiliation": "TU Darmstadt",
+      "lastname": "Fischlin",
+      "name": "Marc Fischlin",
+      "id": 227
     },
     {
-      "affiliation": "TU Graz",
-      "lastname": "Eichlseder",
-      "id": 8620,
-      "name": "Maria Eichlseder"
+      "affiliation": "ENS Paris, France",
+      "lastname": "Fuchsbauer",
+      "name": "Georg Fuchsbauer",
+      "id": 4456
     },
     {
-      "affiliation": "University of L\u00fcbeck & WPI",
-      "lastname": "Eisenbarth",
-      "id": 1121,
-      "name": "Thomas Eisenbarth"
+      "affiliation": "Auckland University, New Zealand",
+      "lastname": "Galbraith",
+      "name": "Steven D. Galbraith",
+      "id": 48
     },
     {
-      "affiliation": "University of Versailles",
-      "lastname": "Feo",
-      "id": 10921,
-      "name": "Luca De Feo"
+      "affiliation": "CNRS and ENS, France",
+      "lastname": "Gong",
+      "name": "Junqing Gong",
+      "id": 9248
     },
     {
-      "affiliation": "ANSSI",
-      "lastname": "Fuhr",
-      "id": 5911,
-      "name": "Thomas Fuhr"
+      "affiliation": "Coinplug, South Korea",
+      "lastname": "Han",
+      "name": "Kyoohyung Han",
+      "id": 9997
     },
     {
-      "affiliation": "UC Berkeley",
-      "lastname": "Gay",
-      "id": 9556,
-      "name": "Romain Gay"
+      "affiliation": "University of Edinburgh",
+      "lastname": "Kiayias",
+      "name": "Aggelos Kiayias",
+      "id": 352
     },
     {
-      "affiliation": "KU Leuven",
-      "lastname": "Gierlichs",
-      "id": 1052,
-      "name": "Benedikt Gierlichs"
+      "affiliation": "AIT, Austria",
+      "lastname": "Krenn",
+      "name": "Stephan Krenn",
+      "id": 5906
     },
     {
-      "affiliation": "Carnegie Mellon University",
-      "lastname": "Goyal",
-      "id": 652,
-      "name": "Vipul Goyal"
+      "affiliation": "CNRS and ENS de Lyon, France",
+      "lastname": "Libert",
+      "name": "Beno\u00eet Libert",
+      "id": 163
     },
     {
-      "affiliation": "UT Austin",
-      "lastname": "Goyal",
-      "id": 10236,
-      "name": "Rishab Goyal"
+      "affiliation": "Simula UiB, Norway",
+      "lastname": "Lipmaa",
+      "name": "Helger Lipmaa",
+      "id": 487
     },
     {
-      "affiliation": "Nanyang Technological University",
-      "lastname": "Guo",
-      "id": 4064,
-      "name": "Jian Guo"
-    },
-    {
-      "affiliation": "Ruhr-Universit\u00e4t Bochum and DFKI",
-      "lastname": "G\u00fcneysu",
-      "id": 7811,
-      "name": "Tim G\u00fcneysu"
-    },
-    {
-      "affiliation": "UC Berkeley",
-      "lastname": "Hajiabadi",
-      "id": 7938,
-      "name": "Mohammad Hajiabadi"
-    },
-    {
-      "affiliation": "Bar-Ilan University",
-      "lastname": "Hazay",
-      "id": 2387,
-      "name": "Carmit Hazay"
-    },
-    {
-      "affiliation": "Johns Hopkins University",
-      "lastname": "Hohenberger",
-      "id": 587,
-      "name": "Susan Hohenberger"
-    },
-    {
-      "affiliation": "Charles University in Prague",
-      "lastname": "Hub\u00e1\u010dek",
-      "id": 7993,
-      "name": "Pavel Hub\u00e1\u010dek"
-    },
-    {
-      "affiliation": "Johns Hopkins University",
-      "lastname": "Jain",
-      "id": 6276,
-      "name": "Abhishek Jain"
-    },
-    {
-      "affiliation": "OneSpan",
-      "lastname": "Joye",
-      "id": 809,
-      "name": "Marc Joye"
-    },
-    {
-      "affiliation": "Indian Institute of Science",
-      "lastname": "Kanukurthi",
-      "id": 5741,
-      "name": "Bhavana Kanukurthi"
-    },
-    {
-      "affiliation": "Bar-Ilan University",
-      "lastname": "Keller",
-      "id": 34,
-      "name": "Nathan Keller"
-    },
-    {
-      "affiliation": "NTT Secure Platform Labs",
-      "lastname": "Kiyoshima",
-      "id": 8411,
-      "name": "Susumu Kiyoshima"
-    },
-    {
-      "affiliation": "Technion",
-      "lastname": "Kushilevitz",
-      "id": 1137,
-      "name": "Eyal Kushilevitz"
-    },
-    {
-      "affiliation": "Ruhr-Universit\u00e4t Bochum",
-      "lastname": "Leander",
-      "id": 459,
-      "name": "Gregor Leander"
-    },
-    {
-      "affiliation": "Google",
-      "lastname": "Lepoint",
-      "id": 10480,
-      "name": "Tancr\u00e8de Lepoint"
-    },
-    {
-      "affiliation": "Columbia University",
-      "lastname": "Malkin",
-      "id": 584,
-      "name": "Tal Malkin"
-    },
-    {
-      "affiliation": "Ruhr-Universit\u00e4t Bochum",
-      "lastname": "May",
-      "id": 334,
-      "name": "Alexander May"
-    },
-    {
-      "affiliation": "Radboud University",
-      "lastname": "Mennink",
-      "id": 7117,
-      "name": "Bart Mennink"
-    },
-    {
-      "affiliation": "NEC",
-      "lastname": "Minematsu",
-      "id": 2177,
-      "name": "Kazuhiko Minematsu"
-    },
-    {
-      "affiliation": "Inria",
-      "lastname": "Naya-Plasencia",
-      "id": 2190,
-      "name": "Mar\u00eda Naya-Plasencia"
-    },
-    {
-      "affiliation": "NTT Secure Platform Labs",
+      "affiliation": "NTT Secure Platform Lab, Japan",
       "lastname": "Nishimaki",
-      "id": 7500,
-      "name": "Ryo Nishimaki"
+      "name": "Ryo Nishimaki",
+      "id": 7500
     },
     {
-      "affiliation": "Inria and Universit\u00e9 de Lorraine",
-      "lastname": "Pierrot",
-      "id": 8954,
-      "name": "C\u00e9cile Pierrot"
+      "affiliation": "NICT, Japan",
+      "lastname": "Ohkubo",
+      "name": "Miyako Ohkubo",
+      "id": 57
     },
     {
-      "affiliation": "Technion",
-      "lastname": "Rothblum",
-      "id": 7940,
-      "name": "Ron D. Rothblum"
+      "affiliation": "KUL, Belgium",
+      "lastname": "Orsini",
+      "name": "Emmanuela Orsini",
+      "id": 8371
     },
     {
-      "affiliation": "University of Bergen",
-      "lastname": "R\u00f8njom",
-      "id": 9904,
-      "name": "Sondre R\u00f8njom"
+      "affiliation": "Stonybrook U., USA",
+      "lastname": "Pandey",
+      "name": "Omkant Pandey",
+      "id": 3662
     },
     {
-      "affiliation": "North Carolina State University",
-      "lastname": "Scafuro",
-      "id": 7752,
-      "name": "Alessandra Scafuro"
+      "affiliation": "UMD, USA",
+      "lastname": "Papamanthou",
+      "name": "Charalampos Papamanthou",
+      "id": 5892
     },
     {
-      "affiliation": "Radboud University",
-      "lastname": "Schwabe",
-      "id": 5877,
-      "name": "Peter Schwabe"
+      "affiliation": "U. Birmingham, UK",
+      "lastname": "Petit",
+      "name": "Christophe Petit",
+      "id": 4008
     },
     {
-      "affiliation": "Boston University",
-      "lastname": "Smith",
-      "id": 492,
-      "name": "Adam Smith"
+      "affiliation": "PQShield Ltd, USA",
+      "lastname": "Prest",
+      "name": "Thomas Prest",
+      "id": 9456
     },
     {
-      "affiliation": "UCL",
-      "lastname": "Standaert",
-      "id": 10461,
-      "name": "Fran\u00e7ois-Xavier Standaert"
+      "affiliation": "University of Bristol, UK",
+      "lastname": "Roy",
+      "name": "Arnab Roy",
+      "id": 3773
     },
     {
-      "affiliation": "NTT Secure Platform Laboratories",
-      "lastname": "Todo",
-      "id": 8481,
-      "name": "Yosuke Todo"
+      "affiliation": "Universitat Pompeu Fabra, Spain",
+      "lastname": "R\u00e0fols",
+      "name": "Carla R\u00e0fols",
+      "id": 10453
     },
     {
-      "affiliation": "UC Berkeley",
-      "lastname": "Vasudevan",
-      "id": 9179,
-      "name": "Prashant Nalini Vasudevan"
+      "affiliation": "Radboud University, The Netherlands",
+      "lastname": "Samardjiska",
+      "name": "Simona Samardjiska",
+      "id": 8739
     },
     {
-      "affiliation": "University of Rochester",
-      "lastname": "Venkitasubramaniam",
-      "id": 4083,
-      "name": "Muthuramakrishnan Venkitasubramaniam"
+      "affiliation": "Microsoft Research, Redmond, USA",
+      "lastname": "Song",
+      "name": "Yongsoo Song",
+      "id": 10383
     },
     {
-      "affiliation": "KU Leuven",
+      "affiliation": "Florida Atlantic University, USA",
+      "lastname": "Steinwandt",
+      "name": "Rainer Steinwandt",
+      "id": 882
+    },
+    {
+      "affiliation": "Worcester Polytechnic Institute, USA",
+      "lastname": "Sunar",
+      "name": "Berk Sunar",
+      "id": 938
+    },
+    {
+      "affiliation": "University of Tokyo, Japan",
+      "lastname": "Takayasu",
+      "name": "Atsushi Takayasu",
+      "id": 10139
+    },
+    {
+      "affiliation": "EPFL, Switzerland",
+      "lastname": "Vaudenay",
+      "name": "Serge Vaudenay",
+      "id": 85
+    },
+    {
+      "affiliation": "U. Roma La Sapienza, Italy",
+      "lastname": "Venturi",
+      "name": "Daniele Venturi",
+      "id": 7592
+    },
+    {
+      "affiliation": "KUL, Belgium",
       "lastname": "Vercauteren",
-      "id": 1409,
-      "name": "Frederik Vercauteren"
+      "name": "Frederik Vercauteren",
+      "id": 1409
     },
     {
-      "affiliation": "Sorbonne Universit\u00e9 and Institut Universitaire de France",
-      "lastname": "Vergnaud",
-      "id": 445,
-      "name": "Damien Vergnaud"
+      "affiliation": "Nanyang Technological University, Singapore",
+      "lastname": "Xing",
+      "name": "Chaoping Xing",
+      "id": 674
     },
     {
-      "affiliation": "Technion",
-      "lastname": "Yogev",
-      "id": 8657,
-      "name": "Eylon Yogev"
+      "affiliation": "University of Edinburgh",
+      "lastname": "Zacharias",
+      "name": "Thomas Zacharias",
+      "id": 9761
     },
     {
-      "affiliation": "Shanghai Jiao Tong University",
-      "lastname": "Yu",
-      "id": 7562,
-      "name": "Yu Yu"
-    },
-    {
-      "affiliation": "Institut de mathematiques de Bordeaux",
-      "lastname": "Z\u00e9mor",
-      "id": 1639,
-      "name": "Gilles Z\u00e9mor"
+      "affiliation": "VCU, USA",
+      "lastname": "Zhou",
+      "name": "Hong-Sheng Zhou",
+      "id": 3426
     }
-  ],
-  "_source": "https://www.iacr.org/cryptodb/pc"
+  ]
 }

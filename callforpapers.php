@@ -21,34 +21,25 @@
 
       <h3 class="pageSubtitle">General Information</h3>
       <p>
-        <span class="conf_name"><?php echo $META['shortName'];?></span> will take place <!--in <span class="conf_location"><?php echo $META['location'];?></span>--> as
-        a virtual conference on <span class="conf_dates"><?php echo $META['dates'];?></span>.
-        <span class="conf_name"><?php echo $META['shortName'];?></span> is organized by <a href="http://iacr.org/">the International Association for Cryptologic Research</a> (IACR).
-        The proceedings will be published by Springer in the LNCS series.
+        The International Conference on Practice and Theory in Public-Key Cryptography (<span class="conf_name"><?php echo $META['shortName'];?></span>) is organized annually by the <a href="https://www.iacr.org">International Association for Cryptologic Research</a> (IACR). It is the main annual conference with an explicit focus on public-key cryptography sponsored by IACR. Original research papers on all aspects of public-key cryptography, covering theory, implementations and applications, are solicited for submission to PKC 2020. Accepted papers will be published by Springer in their Lecture Notes in Computer Science series.
       </p>
       <p>
-        Original contributions on all technical aspects of
-        cryptology are solicited for submission. Topics include, but are not limited to:
+        The call for papers is also available in <a href="files/PKC2020-cfp.pdf">PDF</a>.
       </p>
-      <ul>
-        <li>foundational theory and mathematics</li>
-        <li>the design, proposal, and analysis of cryptographic primitives and protocols</li>
-        <li>secure implementation and optimization in hardware or software; and applied aspects of cryptography</li>
-      </ul>
 
       <div class="row mt-4">
         <section class="col-lg-6">
           <h3 class="pageSubtitle">
-            Schedule
+            Instructions for Authors
           </h3>
           <p>
-            <span class="conf_name"><?php echo $META['shortName'];?></span> will operate a two-round review system with rebuttal phase. In the first round, the program committee selects the submissions which are considered of value for proceeding to the second round, and the authors receive the first round notification with review comments. The authors of the selected submissions are invited to submit a text-based rebuttal letter to the review comments.
+            Submissions should be prepared using LaTeX and must be in the standard <a href='http://www.springer.com/computer/lncs'>Springer LNCS format</a>, with the (only) modification that page numbers must be displayed&mdash; this can be done by putting <code>\pagestyle{plain}</code> into the preamble. Submissions should begin with a title and a short abstract, followed by an introduction that summarizes the contribution of the paper so that it is understandable to a non-expert in the field. Submissions must be anonymous, with no author names, affiliations, or obvious references.
           </p>
           <p>
-            The submissions that have not been selected during the first round of reviews may be submitted in other conferences after the first round notification date.
+            Submissions must be at most 30 pages, including title page, references, and figures. The final published version of an accepted paper is expected to closely match these submitted pages. If necessary, clearly marked supplementary material (of unbounded size) may be appended to the actual submission. However, submissions are expected to be intelligible and verifiable without the supplementary material; reviewers are not required to read it. In particular, it is discouraged to move crucial proofs into the supplementary material, and in cases where this is unavoidable it is expected that a short but convincing proof sketch is provided in the main body.
           </p>
           <p>
-            In the second round the program committee further reviews the selected submissions by taking into account their rebuttal letter. They then make the final decision of acceptance or rejection.
+            Submissions must not substantially duplicate published work or work that has been submitted in parallel to any other journal or conference/workshop with proceedings. All submissions to PKC 2020 are viewed as active submissions throughout the entire review period; they cannot be submitted to any other journal or conference/workshop with proceedings before the notification date. Accepted submissions cannot appear in any other conference or workshop that has proceedings. IACR reserves the right to share information about submissions with other program committees. The IACR Policy on Irregular Submissions and Guidelines for Authors, as well as other resources, are all available via <a href="http://www.iacr.org/docs">http://www.iacr.org/docs</a>.
           </p>
         </section>
         <div class="col-lg-6 mt-3 mt-lg-0">
@@ -57,7 +48,7 @@
       </div>
 
 
-      <div class="row mt-lg-4">
+      <!-- <div class="row mt-lg-4">
         <section class="col-md-6">
           <h3 class="pageSubtitle">
             Awards
@@ -82,10 +73,14 @@
             Students whose papers have been accepted and who present their talks at the conference will have their registration waived. A limited number of stipends are available to those unable to obtain funding to attend the conference. Students, whose papers are accepted and who will present the paper themselves, are encouraged to apply if such assistance is needed. Requests for stipends should be sent to the general chair.
           </p>
         </section>
-      </div>
+      </div> -->
+
       <h3 class="pageSubtitle">Paper submissions</h3>
       <p>
-        Author instructions for paper submission are on the <a href="papersubmission.php">submissions page</a>.
+        Papers must be submitted electronically; a detailed description of the electronic submission procedure will be available at <a href="papersubmission.php">the paper submission page</a>.
+      </p>
+      <p class="alert alert-danger">
+        Submissions not meeting any of the guidelines above risk rejection without consideration of their merits. All accepted papers must conform to Springer publishing requirements and authors will be required to sign the IACR Copyright and Consent Form when submitting the proceedings version of their papers. Authors must guarantee that their paper, if accepted, will be presented at the conference by one of the authors.
       </p>
 
       <h3 class="pageSubtitle mt-4">
@@ -110,67 +105,67 @@
       </div>
 
       <h3 class="pageSubtitle text-center mt-4">
-        General Co-Chairs
+        General Chairs
       </h3>
 
       <div class="row mt-3 mt-md-4">
-        <aside class="col-12 col-md-6 text-center mb-2">
+        <aside class="col-12 col-md-4 text-center mb-2">
           <h4 class="subSubtitle">
-            Lejla Batina
+            Markulf Kohlweiss
           </h4>
           <p class="text-center">
-            Radboud University<br>
-            The Netherlands
+            University of Edinburgh<br>
+            Scotland
           </p>
         </aside>
-        <aside class="col-12 col-md-6 text-center mb-2">
+        <aside class="col-12 col-md-4 text-center mb-2">
           <h4 class="subSubtitle">
-            Stjepan Picek
+            Petros Wallden
           </h4>
           <p class="text-center">
-            Delft University of Technology<br>
-            The Netherlands
+            University of Edinburgh<br>
+            Scotland
+          </p>
+        </aside>
+        <aside class="col-12 col-md-4 text-center mb-2">
+          <h4 class="subSubtitle">
+            Vassilis Zikas
+          </h4>
+          <p class="text-center">
+            University of Edinburgh<br>
+            Scotland
           </p>
         </aside>
       </div>
 
       <div class="row">
         <div class="col-12 text-center mb-5">
-          <a href="mailto:eurocrypt2020@iacr.org">
-            <img src="images/icons/email.svg" class="icon" />&nbsp;<img src="images/contacts/ec2020.jpg" />
+          <a href="mailto:pkc2020@iacr.org">
+            <img src="images/icons/email.svg" class="icon" />&nbsp;<img src="images/contacts/pkc2020.jpg" />
           </a>
         </div>
       </div>
 
       <h3 class="pageSubtitle text-center mt-4">
-        Program Co-Chairs
+        Program Committee Chair
       </h3>
 
       <div class="row mt-3 mt-md-4">
-        <aside class="col-12 col-md-6 text-center mb-2">
+        <aside class="col-12 col-md-6 text-center mb-2 mx-md-auto">
           <h4 class="subSubtitle">
-            Yuval Ishai
+            Aggelos Kiayias
           </h4>
           <p class="text-center">
-            Technion<br>
-            Israel
-          </p>
-        </aside>
-        <aside class="col-12 col-md-6 text-center mb-2">
-          <h4 class="subSubtitle">
-            Anne Canteaut
-          </h4>
-          <p class="text-center">
-            Inria Paris<br>
-            France
+            University of Edinburgh<br>
+            Scotland
           </p>
         </aside>
       </div>
 
       <div class="row">
         <div class="col-12 text-center">
-          <a href="mailto:eurocrypt2020programchairs@iacr.org">
-            <img src="images/icons/email.svg" class="icon" />&nbsp;<img src="images/contacts/ecpc2020.jpg" />
+          <a href="mailto:pkc2020programchair@iacr.org">
+            <img src="images/icons/email.svg" class="icon" />&nbsp;<img src="images/contacts/pkcpc2020.jpg" />
           </a>
         </div>
       </div>
