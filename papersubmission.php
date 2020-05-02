@@ -18,13 +18,17 @@
         Paper Submission
       </h2>
       <p>
+        Paper submission is now closed.
+      </p>
+
+      <!-- <p>
         Please follow this <a href="https://secure.iacr.org/websubrev/ec2020/submit/submit.php" target="_blank">link</a> to the submission server or click on the button below. After the submission deadline, the site is only available for withdrawing submissions.
       </p>
       <div class="d-flex justify-content-center mb-4">
         <a href="https://secure.iacr.org/websubrev/ec2020/submit/submit.php" target="_blank" class="btn btn-lg btn-warning btn-block regBtn w-50" role="button">
           Submission Server
         </a>
-      </div>
+      </div> -->
 
       <h3 class="pageSubtitle">
         Conflicts of Interest
