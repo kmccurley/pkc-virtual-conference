@@ -25,7 +25,7 @@ function adjustTimes(date, session) {
 $(document).ready(function() {
   $.ajax({
     cache: false,
-    url: 'json/program.json',
+    url: 'currentProgram.php?v=' + Date.now(),
     dataType: 'json',
       success: function(data) {
       console.dir(data);
