@@ -116,7 +116,7 @@
             IACR dues are $50 for regular attendees and $25 for student attendees.
           </p>
           <p>
-            It will be possible to register up until the last day of the conference, May 15 2020.
+            It will be possible to register up until the last day of the conference, June 4 2020.
           </p>
         </section>
         <section class="col-md-6">
