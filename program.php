@@ -42,17 +42,14 @@
            -->
 
       <p class="alert alert-danger">
-        This program is tentative. Sessions will be conducted as panel discussions in
-        which authors give a very brief overview (5 minutes) of their papers, and then
-        take live questions from the panel moderators and audience. There will also
-        be links to papers and videos of longer talks by authors on their papers.
+        The program will be available soon.
       </p>
-      <p class="alert alert-info">
+<!--      <p class="alert alert-info">
         <strong>Your timezone appears to be <span id="timezone"></span>.
           Times in the schedule are shown in your local timezone. Dates are
           in UTC.
         </strong>
-      </p>
+      </p>-->
       <!-- 
       <div class="row">
         <div class="col-12 col-md-10 mx-auto">

@@ -17,7 +17,7 @@
       <h2 class="indPageTitle">
         Paper Submission
       </h2>
-      <p>
+      <p class="alert alert-danger">
         Paper submission is now closed.
       </p>
 
