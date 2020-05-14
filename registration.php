@@ -105,7 +105,7 @@
       </h3> -->
      <div class="row">
         <aside class="col-sm-6 mx-auto text-center">
-          <a href="https://secure.iacr.org/conferences/pkc2020/" class="btn btn-lg btn-warning btn-block regBtn" role="button">Register now!</a>
+          <a href="https://secure.iacr.org/conferences/pkc2020/" class="btn btn-lg btn-success btn-block regBtn" role="button">Register now!</a>
         </aside>
       </div>
 

@@ -34,7 +34,7 @@
           <span class="long_conf"><?php echo $META['shortName'];?></span> is sponsored by <a href="http://iacr.org/">the International Association for Cryptologic Research</a> (IACR).
         </p>
         <!-- TODO: place countdown timer to next session here perhaps? -->
-        <a href="https://secure.iacr.org/conferences/pkc2020/" class="btn btn-lg btn-secondary btn-block regBtn w-50 mx-auto">Register now!</a>
+        <a href="https://secure.iacr.org/conferences/pkc2020/" class="btn btn-lg btn-success btn-block regBtn w-50 mx-auto">Register now!</a>
       </article>
     </div>
 
