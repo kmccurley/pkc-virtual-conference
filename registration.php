@@ -137,6 +137,12 @@
             Due to the nature of a virtual conference, no cancellations will be accepted.
           </p>
         </section>
+        <section class="col-md-6">
+          <h3 class="pageSubtitle">Code of Conduct</h3>
+          <p>
+            People who register must agree to abide by the <a href="conduct.php">IACR code of conduct</a>.
+          </p>
+        </section>
       </div>
     </main>
 

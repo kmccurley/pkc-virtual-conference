@@ -31,7 +31,7 @@
 
         <div class="col-md-6 mt-md-4">
           <p class="alert alert-warning">
-            <img src="images/icons/exclamation.svg" class="icon"> All conference attendees must be IACR members. When you participate in Q&amp;A, chat, etc, you must do so in such a way that you are readily identifiable (i.e. by using the name you are known by in professional contexts). The <a href="conduct.php">code of conduct</a> still applies in a virtual setting.
+            <img src="images/icons/exclamation.svg" class="icon"> All conference attendees must be IACR members. When you participate in Q&amp;A, chat, etc, you must do so in such a way that you are readily identifiable (i.e. by using the name you are known by in your professional work). The <a href="conduct.php">code of conduct</a> still applies in a virtual setting.
           </p>
         </div>
       </div>
@@ -41,7 +41,13 @@
         Schedule Structure
       </h3>
       <p>
-        The conference is organized over 4 days, with approximately 4 hours per day. Sessions consist of live panel discussions (i.e. brief summaries of the papers, which are grouped by topic, followed by a Q&amp;A with the authors), invited talks, and a rump session. We recommend monitoring <a href="program.php">the conference program</a> to see which sessions are upcoming.
+        The conference is organized over 4 days, with approximately 4
+        hours per day. Sessions consist of live 5 minute presentations
+        of the papers, which are grouped by topic, followed by a Q&amp;A
+        panel discussion with the speakers and session moderators. The
+        conference will also feature an invited talk by Yuval Ishai. We recommend
+        monitoring <a href="program.php">the conference program</a> to
+        see which sessions are upcoming.
       </p>
 
       <h3 class="pageSubtitle mt-4">

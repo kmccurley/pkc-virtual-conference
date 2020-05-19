@@ -43,6 +43,14 @@
   </div>
   <div class="customCardRow row">
     <h6 class="dateTitle col-5 col-md-4">
+      May 25 2020
+    </h6>
+    <p class="col-7 col-md-8">
+      Videos from authors should be uploaded
+    </p>
+  </div>
+  <div class="customCardRow row">
+    <h6 class="dateTitle col-5 col-md-4">
       <?php echo $META['dates'];?>
     </h6>
     <p class="col-7 col-md-8">

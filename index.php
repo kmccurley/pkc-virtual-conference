@@ -19,11 +19,6 @@
 
     <!-- NOTE: below is placeholder content. please replace contents with your own content when ready. this content
     serves to give you an idea of what the structure of this page has looked like in the past -->
-    <p class="alert alert-info">
-      <b>
-        PKC 2020 goes online with new dates: June 1-4 2020. Please stay tuned for more information.
-      </b>
-    </p>
 
     <div class="row mb-2">
       <article class="col-12">
@@ -49,6 +44,14 @@
           <h4 class="customCardHeader">
             Website Updates
           </h4>
+          <div class="customCardRow row">
+            <h6 class="dateTitle col-5 col-md-4">
+              April 16 2020
+            </h6>
+            <p class="col-7 col-md-8">
+              <a href="registration.php">Registration is open</a>
+            </p>
+          </div>
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
               April 16 2020
