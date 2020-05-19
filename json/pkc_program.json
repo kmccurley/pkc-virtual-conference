@@ -1,0 +1,841 @@
+{
+  "name": "PKC 2020 with paper URLs",
+  "config": {
+    "default_track_locations": [
+      {
+        "name": "Enter a location"
+      }
+    ],
+    "default_talk_minutes": 25,
+    "unassigned_talks": [
+      {
+        "name": "Uncategorized",
+        "talks": [],
+        "id": "category-0"
+      }
+    ],
+    "uniqueIDIndex": 190
+  },
+  "days": [
+    {
+      "date": "2020-06-01",
+      "timeslots": [
+        {
+          "starttime": "13:00",
+          "endtime": "13:20",
+          "sessions": [
+            {
+              "id": "session-148",
+              "session_title": "Welcome",
+              "moderator": "Aggelos Kiayias, Markulf Kohlweiss, Petros Wallden, Vassilis Zikas"
+            }
+          ]
+        },
+        {
+          "starttime": "13:20",
+          "endtime": "14:20",
+          "sessions": [
+            {
+              "id": "session-149",
+              "session_title": "Functional Encryption and Identity Based Encryption",
+              "talks": [
+                {
+                  "title": "Fast, Compact, and Expressive Attribute-Based Encryption",
+                  "authors": [
+                    "Junichi Tomida",
+                    "Yuto Kawahara",
+                    "Ryo Nishimaki"
+                  ],
+                  "affiliations": "NTT Secure Platform Labs; NTT Secure Platform Labs; NTT Secure Platform Labs",
+                  "category": "Uncategorized",
+                  "keyWords": "attribute-based encryption; standard assumption; non-monotone; unbounded; multi-use; random oracle model",
+                  "id": "talk-38",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_1"
+                },
+                {
+                  "title": "Adaptive Simulation Security for Inner Product Functional Encryption",
+                  "authors": [
+                    "Shweta Agrawal",
+                    "Benoit Libert",
+                    "Monosij Maitra",
+                    "Radu Titiu"
+                  ],
+                  "affiliations": "IIT Madras; CNRS and ENS de Lyon, France; IIT Madras; Bitdefender, Romania and ENS de Lyon, France",
+                  "category": "Uncategorized",
+                  "keyWords": "Functional encryption, inner-products, simulation-based security, standard assumptions.",
+                  "id": "talk-40",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_2"
+                },
+                {
+                  "title": "Verifiable Inner Product Encryption Scheme",
+                  "authors": [
+                    "Najmeh Soroush",
+                    "Vincenzo Iovino",
+                    "Alfredo Rial",
+                    "Peter B. Roenne",
+                    "Peter Y. A. Ryan"
+                  ],
+                  "affiliations": "University of Luxembourg; university of salerno; University of Luxembourg; University of Luxembourg; University of Luxembourg",
+                  "category": "Uncategorized",
+                  "keyWords": "Inner-product encryption, verifiability, functional commitments, bilinear maps.",
+                  "id": "talk-70",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_3"
+                },
+                {
+                  "title": "A New Paradigm for Public-Key Functional Encryption for Degree-2 Polynomials",
+                  "authors": [
+                    "Romain Gay"
+                  ],
+                  "affiliations": "Cornell Tech, NY",
+                  "category": "Uncategorized",
+                  "keyWords": "public-key, functional encryption, quadratic functions simulation security",
+                  "id": "talk-66",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_4"
+                },
+                {
+                  "title": "Master-Key KDM-Secure IBE from Pairings",
+                  "authors": [
+                    "Sanjam Garg",
+                    "Romain Gay",
+                    "Mohammad Hajiabadi"
+                  ],
+                  "affiliations": "UC Berkeley; Cornell Tech; UC Berkeley",
+                  "category": "Uncategorized",
+                  "keyWords": "KDM-security, IBE, pairings",
+                  "id": "talk-58",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_5"
+                },
+                {
+                  "title": "Hierarchical Identity-Based Encryption with Tight Multi-Challenge Security",
+                  "authors": [
+                    "Roman Langrehr",
+                    "Jiaxin Pan"
+                  ],
+                  "affiliations": "ETH Zurich, Zurich, Switzerland; NTNU – Norwegian University of Science and Technology, Trondheim, Norway",
+                  "category": "Uncategorized",
+                  "keyWords": "Hierarchical identity-based encryption, tight security, multi-challenge security, chosen-ciphertext security, anonymity",
+                  "id": "talk-60",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_6"
+                }
+              ],
+              "moderator": "TBD"
+            }
+          ]
+        },
+        {
+          "starttime": "14:20",
+          "endtime": "14:40",
+          "sessions": [
+            {
+              "id": "session-155",
+              "session_title": "Break"
+            }
+          ]
+        },
+        {
+          "starttime": "14:40",
+          "endtime": "15:50",
+          "sessions": [
+            {
+              "id": "session-154",
+              "session_title": "Encryption Schemes and Secure Channels",
+              "talks": [
+                {
+                  "title": "Memory-Tight Reductions for Practical Key Encapsulation Mechanisms",
+                  "authors": [
+                    "Rishiraj Bhattacharyya"
+                  ],
+                  "affiliations": "NISER, HBNI, India",
+                  "category": "Uncategorized",
+                  "keyWords": "Memory-tight Reduction; Hashed-ElGamal; FO transformation",
+                  "id": "talk-57",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_9"
+                },
+                {
+                  "title": "Toward RSA-OAEP without Random Oracles",
+                  "authors": [
+                    "Mohammad Zaheri",
+                    "Nairen Cao",
+                    "Adam O'Neill"
+                  ],
+                  "affiliations": "Department of Computer Science, Georgetown University; Department of Computer Science, Georgetown University; College of Information and Computer Sciences, University of Massachusetts",
+                  "category": "Uncategorized",
+                  "keyWords": "RSA-OAEP, Instantiation, Extractable function",
+                  "id": "talk-65",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_10"
+                },
+                {
+                  "title": "Public-Key Puncturable Encryption: Modular and Compact Constructions",
+                  "authors": [
+                    "Shi-Feng Sun",
+                    "Amin Sakzad",
+                    "Ron Steinfeld",
+                    "Joseph Liu",
+                    "Dawu Gu"
+                  ],
+                  "affiliations": "Monash University/Data61, CSIRO; Monash University; Monash University; Monash University; Shanghai Jiao Tong University",
+                  "category": "Uncategorized",
+                  "keyWords": "Functional Encryption, Puncturable Encryption, Forward Security",
+                  "id": "talk-39",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_11"
+                },
+                {
+                  "title": "Flexible Authenticated and Confidential Channel Establishment (fACCE): Analyzing the Noise Protocol Framework",
+                  "authors": [
+                    "Benjamin Dowling",
+                    "Paul Rösler",
+                    "Jörg Schwenk"
+                  ],
+                  "affiliations": "ETH Zürich; Ruhr University Bochum; Ruhr University Bochum",
+                  "category": "Uncategorized",
+                  "keyWords": "Noise protocol framework; ACCE; Multi-Stage; Channel Establishment",
+                  "id": "talk-34",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_12"
+                },
+                {
+                  "title": "Privacy-Preserving Authenticated Key Exchange and the Case of IKEv2",
+                  "authors": [
+                    "Sven Schäge",
+                    "Jörg Schwenk",
+                    "Sebastian Lauer"
+                  ],
+                  "affiliations": "Ruhr-Universität Bochum; Ruhr-Universität Bochum; Ruhr-Universität Bochum",
+                  "category": "Uncategorized",
+                  "keyWords": "key exchange, AKE, privacy, IKE, IPsec",
+                  "id": "talk-49",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_20"
+                },
+                {
+                  "title": "Limits on the Efficiency of (Ring) LWE based Non-Interactive Key Exchange",
+                  "authors": [
+                    "Siyao Guo",
+                    "Pritish Kamath",
+                    "Alon Rosen",
+                    "Katerina Sotiraki"
+                  ],
+                  "affiliations": "New York University Shanghai; Toyota Technological Institute, Chicago; IDC Herzliya; MIT",
+                  "category": "Uncategorized",
+                  "keyWords": "Foundations, Non-Interactive Key Exchange, LWE with polynomial modulus,  Fourier Analysis",
+                  "id": "talk-54",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_13"
+                },
+                {
+                  "title": "PAKEs: New Framework, New Techniques and More Efficient Lattice-Based Constructions in the Standard Model",
+                  "authors": [
+                    "Shaoquan Jiang",
+                    "Guang Gong",
+                    "Jingnan He",
+                    "Khoa Nguyen",
+                    "Huaxiong Wang"
+                  ],
+                  "affiliations": "Mianyang Normal University, China; University of Waterloo, Canada; Institute of Information Engineering, CAS, China and Nanyang Technological University, Singapore; Nanyang Technological University, Singapore; Nanyang Technological University, Singapore",
+                  "category": "Uncategorized",
+                  "keyWords": "Authentication, Password-based Key Exchange, Lattice, Ideal Lattice, LWE, ring-LWE",
+                  "id": "talk-63",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_14"
+                }
+              ],
+              "moderator": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2020-06-02",
+      "timeslots": [
+        {
+          "endtime": "14:00",
+          "starttime": "13:00",
+          "sessions": [
+            {
+              "moderator": "Aggelos Kiayias",
+              "session_title": "Invited talk",
+              "id": "session-158",
+              "talks": [
+                {
+                  "id": "talk-144",
+                  "title": "How low can we go?",
+                  "authors": [
+                    "Yuval Ishai"
+                  ],
+                  "affiliations": "",
+                  "paperUrl": "https://eprint.iacr.org/2020/576.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "endtime": "14:20",
+          "starttime": "14:00",
+          "sessions": [
+            {
+              "session_title": "Break",
+              "id": "session-160"
+            }
+          ]
+        },
+        {
+          "endtime": "15:20",
+          "starttime": "14:20",
+          "sessions": [
+            {
+              "moderator": "TBD",
+              "session_title": "Proofs and Arguments",
+              "talks": [
+                {
+                  "title": "Concretely-Efficient Zero-Knowledge Arguments for Arithmetic Circuits and Their Application to Lattice-Based Cryptography",
+                  "authors": [
+                    "Carsten Baum",
+                    "Ariel Nof"
+                  ],
+                  "affiliations": "Aarhus University; Technion",
+                  "category": "Uncategorized",
+                  "keyWords": "Zero Knowledge, Lattices, MPC in the head",
+                  "id": "talk-53",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_17"
+                },
+                {
+                  "title": "Updateable Inner Product Argument with Logarithmic Verifier and Applications",
+                  "authors": [
+                    "Vanesa Daza",
+                    "Carla Ràfols",
+                    "Alexandros Zacharakis"
+                  ],
+                  "affiliations": "Pompeu Fabra University; Pompeu Fabra University; Pompeu Fabra University",
+                  "category": "Uncategorized",
+                  "keyWords": "Zero Knowledge, Inner Product, SNARKS, Range Proofs, Updateable",
+                  "id": "talk-56",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_18"
+                },
+                {
+                  "title": "On Black-Box Extensions of Non-Interactive Zero-Knowledge Arguments, and Signatures Directly from Simulation Soundness",
+                  "authors": [
+                    "Masayuki Abe",
+                    "Miguel Ambrona",
+                    "Miyako Ohkubo"
+                  ],
+                  "affiliations": "Secure Platform Laboratories, NTT Corporation, Japan; Secure Platform Laboratories, NTT Corporation, Japan; Security Fundamentals Laboratory, CSR, NICT, Japan",
+                  "category": "Uncategorized",
+                  "keyWords": "non-interactive zero-knowledge, simulation soundness,black-box separation,signature scheme",
+                  "id": "talk-55",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_19"
+                },
+                {
+                  "title": "On QA-NIZK in the BPK Model",
+                  "authors": [
+                    "Behzad Abdolmaleki",
+                    "Helger Lipmaa",
+                    "Janno Siim",
+                    "Michal Zajac"
+                  ],
+                  "affiliations": "University of Tartu, Tartu, Estonia; Simula UiB, Bergen, Norway; University of Tartu, Tartu, Estonia; Clearmatics, London, UK",
+                  "category": "Uncategorized",
+                  "keyWords": "Bare public key model, no-auxiliary-string zero knowledge, non-black-box zero knowledge, QA-NIZK, subversion-security",
+                  "id": "talk-62",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_20"
+                },
+                {
+                  "title": "Witness Indistinguishability for any Single-Round Argument with Applications to Access Control",
+                  "authors": [
+                    "Zvika Brakerski",
+                    "Yael Kalai"
+                  ],
+                  "affiliations": "Weizmann Institute of Science; Microsoft Research and MIT",
+                  "category": "Uncategorized",
+                  "keyWords": "Delegation, access control",
+                  "id": "talk-72",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_4"
+                },
+                {
+                  "title": "Boosting Verifiable Computation on Encrypted Data",
+                  "authors": [
+                    "Dario Fiore",
+                    "Anca Nitulescu",
+                    "David Pointcheval"
+                  ],
+                  "affiliations": "IMDEA Software Institute, Madrid, Spain; Cosmian Paris; ENS, CNRS, INRIA, and PSL Research University Paris",
+                  "category": "Uncategorized",
+                  "keyWords": "verifiable computation, SNARKs, privacy, encrypted data",
+                  "id": "talk-43",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_5"
+                }
+              ],
+              "id": "session-161"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2020-06-03",
+      "timeslots": [
+        {
+          "endtime": "13:30",
+          "starttime": "13:00",
+          "sessions": [
+            {
+              "moderator": "Aggelos Kiayias",
+              "session_title": "PKC Test of Time Award Ceremony",
+              "id": "session-169"
+            }
+          ]
+        },
+        {
+          "endtime": "13:50",
+          "starttime": "13:30",
+          "sessions": [
+            {
+              "session_title": "Break",
+              "id": "session-168"
+            }
+          ]
+        },
+        {
+          "starttime": "13:50",
+          "endtime": "14:40",
+          "sessions": [
+            {
+              "id": "session-170",
+              "session_title": "Post Quantum Cryptography",
+              "talks": [
+                {
+                  "title": "Lossy CSI-FiSh: Efficient Signature Scheme with Tight Reduction to Decisional CSIDH-512",
+                  "authors": [
+                    "Ali El Kaafarani",
+                    "Shuichi Katsumata",
+                    "Federico Pintore"
+                  ],
+                  "affiliations": "Mathematical Institute, University of Oxford, UK; PQShield, UK; National Institute of Advanced Industrial Science and Technology (AIST), JP",
+                  "category": "Uncategorized",
+                  "keyWords": "Isogney-based cryptography, tight security, Fiat-Shamir, quantum random oracle models",
+                  "id": "talk-41",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_6"
+                },
+                {
+                  "title": "Threshold Schemes from Isogeny Assumptions",
+                  "authors": [
+                    "Luca De Feo",
+                    "Michael Meyer"
+                  ],
+                  "affiliations": "IBM Research Zürich, Switzerland; University of Applied Sciences Wiesbaden, Germany and University of Würzburg, Germany",
+                  "category": "Uncategorized",
+                  "keyWords": "Threshold cryptography, Hard homogeneous spaces, Isogeny-based cryptography, CSIDH, CSI-FiSh",
+                  "id": "talk-50",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_7"
+                },
+                {
+                  "title": "Tight and Optimal Reductions for Signatures based on Average Trapdoor Preimage Sampleable Functions and Applications to Code-Based Signatures",
+                  "authors": [
+                    "André Chailloux",
+                    "Thomas Debris"
+                  ],
+                  "affiliations": "Inria de Paris, EPI SECRET; Information Security Group, Royal Holloway,  University of London, UK",
+                  "category": "Uncategorized",
+                  "keyWords": "signature schemes, trapdoor preimage sampleable functions, (quantum) random oracle model",
+                  "id": "talk-69",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_16"
+                },
+                {
+                  "title": "Generic Authenticated Key Exchange in the Quantum Random Oracle Model",
+                  "authors": [
+                    "Kathrin Hövelmanns",
+                    "Eike Kiltz",
+                    "Sven Schäge",
+                    "Dominique Unruh"
+                  ],
+                  "affiliations": "Ruhr University Bochum; Ruhr University Bochum; Ruhr University Bochum; University of Tartu",
+                  "category": "Uncategorized",
+                  "keyWords": "Authenticated key exchange, quantum random oracle model, NIST, Fujisaki- Okamoto",
+                  "id": "talk-48",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_14"
+                },
+                {
+                  "title": "Threshold Ring Signatures:New Definitions and Post-Quantum Security",
+                  "authors": [
+                    "Abida Haque",
+                    "Alessandra Scafuro"
+                  ],
+                  "affiliations": "North Carolina State University; North Carolina State University",
+                  "category": "Uncategorized",
+                  "keyWords": "Threshold Ring Signatures, QROM, PQ-Security",
+                  "id": "talk-67",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_15"
+                }
+              ],
+              "moderator": "TBD"
+            }
+          ]
+        },
+        {
+          "endtime": "15:00",
+          "starttime": "14:40",
+          "sessions": [
+            {
+              "session_title": "Break",
+              "id": "session-171"
+            }
+          ]
+        },
+        {
+          "starttime": "15:00",
+          "endtime": "16:00",
+          "sessions": [
+            {
+              "id": "session-167",
+              "session_title": "Multiparty Protocols, Secure Computation and Related Primitives",
+              "talks": [
+                {
+                  "title": "Sublinear-Round Byzantine Agreement under Corrupt Majority",
+                  "authors": [
+                    "T-H. Hubert Chan",
+                    "Rafael Pass",
+                    "Elaine Shi"
+                  ],
+                  "affiliations": "University of Hong Kong; Cornell Tech; Cornell University",
+                  "category": "Uncategorized",
+                  "keyWords": "Byzantine Agreement, corrupt majority, round complexity",
+                  "id": "talk-61",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_9"
+                },
+                {
+                  "title": "Blazing Fast OT for Three-Round UC OT Extension",
+                  "authors": [
+                    "Ran Canetti",
+                    "Pratik Sarkar",
+                    "Xiao Wang"
+                  ],
+                  "affiliations": "Boston University; Boston University; Northwestern University",
+                  "category": "Uncategorized",
+                  "keyWords": "Oblivious Transfer, Oblivious Transfer Extension, Random Oracle",
+                  "id": "talk-71",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_11"
+                },
+                {
+                  "title": "Topology-Hiding Computation for Networks with Unknown Delays",
+                  "authors": [
+                    "Rio LaVigne",
+                    "Chen-Da Liu-Zhang",
+                    "Ueli Maurer",
+                    "Tal Moran",
+                    "Marta Mularczyk",
+                    "Daniel Tschudi"
+                  ],
+                  "affiliations": "MIT; ETH Zurich; ETH Zurich; IDC Herzliya; ETH Zurich; Concordium",
+                  "category": "Uncategorized",
+                  "id": "talk-30",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_8"
+                },
+                {
+                  "title": "Bandwidth-efficient threshold EC-DSA",
+                  "authors": [
+                    "Guilhem Castagnos",
+                    "Dario Catalano",
+                    "Fabien Laguillaumie",
+                    "Federico Savasta",
+                    "Ida Tucker"
+                  ],
+                  "affiliations": "Université de Bordeaux, INRIA, CNRS, IMB UMR 5251, F-33405 Talence, France.; Università di Catania, Italy.; Univ Lyon, EnsL, UCBL, CNRS, Inria, LIP, F-69342, Lyon Cedex 07, France.; Università di Catania, Italy & Scuola Superiore di Catania, Italy; Univ Lyon, EnsL, UCBL, CNRS, Inria, LIP, F-69342, Lyon Cedex 07, France.",
+                  "category": "Uncategorized",
+                  "keyWords": "threshold ECDSA, class groups of imaginary quadratic fields, Zero-knowledge argument of knowledge, low bandwidth",
+                  "id": "talk-47",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_10"
+                },
+                {
+                  "title": "Going Beyond Dual Execution: MPC for Functions with Efficient Verification",
+                  "authors": [
+                    "Carmit Hazay",
+                    "abhi shelat",
+                    "Muthuramakrishnan Venkitasubramaniam"
+                  ],
+                  "affiliations": "Bar-Ilan University; Northeastern University; University of Rochester",
+                  "category": "Uncategorized",
+                  "keyWords": "Secure Multi-Party Computation, Dual Execution, Additive Errors, Efficient Verification",
+                  "id": "talk-44",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_12"
+                },
+                {
+                  "title": "MonZa: Fast Maliciously Secure Two Party Computation on Z_2k",
+                  "authors": [
+                    "Dario Catalano",
+                    "Mario Di Raimondo",
+                    "Dario Fiore",
+                    "Irene Giacomelli"
+                  ],
+                  "affiliations": "University of Catania - Italy; University of Catania - Italy; IMDEA Software Institute, Madrid, Spain; Protocol Labs, USA",
+                  "category": "Uncategorized",
+                  "id": "talk-37",
+                  "paperUrl": "https://dx.doi.org/10.1007/978-3-030-45388-6_13"
+                }
+              ],
+              "moderator": "TBD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2020-06-04",
+      "timeslots": [
+        {
+          "starttime": "13:00",
+          "endtime": "14:00",
+          "sessions": [
+            {
+              "id": "session-185",
+              "session_title": "Cryptographic Primitives",
+              "talks": [
+                {
+                  "title": "Witness Maps and Applications",
+                  "authors": [
+                    "Suvradip Chakraborty",
+                    "Manoj Prabhakaran",
+                    "Daniel Wichs"
+                  ],
+                  "affiliations": "IST Austria; IIT Bombay; Northeastern and NTT Research",
+                  "category": "Uncategorized",
+                  "keyWords": "Witness maps, compact witness maps, lossy trapdoor function, leakage and tamper resilient signatures",
+                  "id": "talk-64",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_8"
+                },
+                {
+                  "title": "Efficient Redactable Signature and Application to Anonymous Credentials",
+                  "authors": [
+                    "Olivier Sanders"
+                  ],
+                  "affiliations": "Orange Labs",
+                  "category": "Uncategorized",
+                  "keyWords": "redactable signatures, anonymous credentials, pairings",
+                  "id": "talk-29",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_22"
+                },
+                {
+                  "title": "Constraining and Watermarking PRFs from Milder Assumptions",
+                  "authors": [
+                    "Chris Peikert",
+                    "Sina Shiehian"
+                  ],
+                  "affiliations": "University of Michigan, Ann Arbor; University of Maryland, College Park",
+                  "category": "Uncategorized",
+                  "keyWords": "Constrained PRFs, Lattices, LWE, Pseudorandom functions",
+                  "id": "talk-32",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_15"
+                },
+                {
+                  "title": "Bringing Order to Chaos: The Case of Collision-Resistant Chameleon-Hashes",
+                  "authors": [
+                    "David Derler",
+                    "Kai Samelin",
+                    "Daniel Slamanig"
+                  ],
+                  "affiliations": "DFINITY; TÜV Rheinland i-sec GmbH; AIT Austrian Institute of Technology",
+                  "category": "Uncategorized",
+                  "keyWords": "Chameleon hashes, Collision-resistance, Relation of security notions",
+                  "id": "talk-36",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_16"
+                },
+                {
+                  "title": "The Usefulness of Sparsifiable Inputs: How to Avoid Subexponential iO",
+                  "authors": [
+                    "Thomas Agrikola",
+                    "Geoffroy Couteau",
+                    "Dennis Hofheinz"
+                  ],
+                  "affiliations": "Karlsruhe Institute of Technology, Karlsruhe, Germany; IRIF, Paris-Diderot University, CNRS, France; ETH Zurich, Switzerland",
+                  "category": "Uncategorized",
+                  "keyWords": "indistinguishability obfuscation, extremely lossy functions, subexponential assumptions",
+                  "id": "talk-33",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_7"
+                },
+                {
+                  "title": "Linearly-Homomorphic Signatures and Scalable Mix-Nets",
+                  "authors": [
+                    "Chloé Hébant",
+                    "Duong Hieu Phan",
+                    "David Pointcheval"
+                  ],
+                  "affiliations": "CNRS and DI/ENS, PSL Research University, France; University of Limoges, France; CNRS and DI/ENS, PSL Research University, France",
+                  "category": "Uncategorized",
+                  "keyWords": "Anonymity, random shuffling, linearly-homomorphic signatures",
+                  "id": "talk-45",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_21"
+                }
+              ],
+              "moderator": "TBD"
+            }
+          ]
+        },
+        {
+          "starttime": "14:00",
+          "endtime": "14:20",
+          "sessions": [
+            {
+              "id": "session-186",
+              "session_title": "Break"
+            }
+          ]
+        },
+        {
+          "starttime": "14:20",
+          "endtime": "15:10",
+          "sessions": [
+            {
+              "id": "session-187",
+              "session_title": "Lattice Based Cryptography",
+              "talks": [
+                {
+                  "title": "The randomized slicer for CVPP: sharper, faster, smaller, batchier",
+                  "authors": [
+                    "Léo Ducas",
+                    "Thijs Laarhoven",
+                    "Wessel P.J. van Woerden"
+                  ],
+                  "affiliations": "CWI, Amsterdam, The Netherlands; TU/e, Eindhoven, The Netherlands; CWI, Amsterdam, The Netherlands",
+                  "category": "Uncategorized",
+                  "keyWords": "lattices, closest vector problem with preprocessing, approximate Voronoi cells, iterative slicer, graph-based nearest neighbours",
+                  "id": "talk-52",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_1"
+                },
+                {
+                  "title": "Almost Tight Security in Lattices with Polynomial Moduli - PRF, IBE, All-but-many LTF, and More",
+                  "authors": [
+                    "Qiqi Lai",
+                    "Feng-Hao Liu",
+                    "Zhedong Wang"
+                  ],
+                  "affiliations": "School of Computer Science, Shaanxi Normal University, Xi; Florida Atlantic University, Boca Raton, FL, USA; Florida Atlantic University, Boca Raton, FL, USA",
+                  "category": "Uncategorized",
+                  "keyWords": "PRF, LWE, tight security",
+                  "id": "talk-35",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_22"
+                },
+                {
+                  "title": "Tweaking the Asymmetry of Asymmetric-Key Cryptography  on Lattices: KEMs and Signatures of Smaller Sizes",
+                  "authors": [
+                    "Jiang Zhang",
+                    "Yu Yu",
+                    "Shuqin Fan",
+                    "Zhenfeng Zhang",
+                    "Kang Yang"
+                  ],
+                  "affiliations": "State Key Laboratory of Cryptology, Beijing, China; Shanghai Jiao Tong University; State Key Laboratory of Cryptology, Beijing, China; Institute of Software, Chinese Academy of Sciences, China; State Key Laboratory of Cryptology, Beijing, China",
+                  "category": "Uncategorized",
+                  "keyWords": "lattice, public-key encryption, digital signature",
+                  "id": "talk-51",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_2"
+                },
+                {
+                  "title": "MPSign: A Signature from Small-Secret Middle-Product Learning with Errors",
+                  "authors": [
+                    "Shi Bai",
+                    "Dipayan Das",
+                    "Ryo Hiromasa",
+                    "Miruna Rosca",
+                    "Amin Sakzad",
+                    "Damien Stehlé",
+                    "Ron Steinfeld",
+                    "Zhenfei Zhang"
+                  ],
+                  "affiliations": "Florida Atlantic University, USA; National Institute of Technology, India; Mitsubishi Electric, Japan; BitDefende, Romania and ENS de Lyon, France; Monash University, Australia; ENS de Lyon, France; Monash University, Australia; Algorand, USA",
+                  "category": "Uncategorized",
+                  "keyWords": "lattice-based crypto, polynomial lwe,middle-product lwe",
+                  "id": "talk-68",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_3"
+                },
+                {
+                  "title": "Improved Discrete Gaussian and Subgaussian Analysis for Lattice Cryptography",
+                  "authors": [
+                    "Nicholas Genise",
+                    "Daniele Micciancio",
+                    "Chris Peikert",
+                    "Michael Walter"
+                  ],
+                  "affiliations": "Rutgers University; ;; University of California, San Diego; University of Michigan; IST Austria",
+                  "category": "Uncategorized",
+                  "keyWords": "lattice cryptography, sampling, lattice",
+                  "id": "talk-59",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_21"
+                }
+              ],
+              "moderator": "TBD"
+            }
+          ]
+        },
+        {
+          "starttime": "15:10",
+          "endtime": "15:30",
+          "sessions": [
+            {
+              "id": "session-188",
+              "session_title": "Break"
+            }
+          ]
+        },
+        {
+          "starttime": "15:30",
+          "endtime": "16:00",
+          "sessions": [
+            {
+              "id": "session-189",
+              "session_title": "Cryptanalysis and Concrete Security",
+              "talks": [
+                {
+                  "title": "Improved Classical Cryptanalysis of SIKE in Practice",
+                  "authors": [
+                    "Craig Costello",
+                    "Patrick Longa",
+                    "Michael Naehrig",
+                    "Joost Renes",
+                    "Fernando Virdia"
+                  ],
+                  "affiliations": "Microsoft Research; Microsoft Research; Microsoft Research; Radboud Universiteit Nijmegen; Royal Holloway, University of London",
+                  "category": "Uncategorized",
+                  "keyWords": "Post-quantum cryptography, supersingular elliptic curves, isogenies, SIDH, SIKE, parallel collision search, van Oorschot-Wiener algorithm.",
+                  "id": "talk-46",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_18"
+                },
+                {
+                  "title": "A short-list of pairing-friendly curves resistant to Special TNFS at the 128-bit security level",
+                  "authors": [
+                    "Aurore Guillevic"
+                  ],
+                  "affiliations": "Universite de Lorraine, CNRS, Inria, LORIA, Nancy, France",
+                  "category": "Uncategorized",
+                  "keyWords": "number field sieve ; discrete logarithm ; pairing-friendly curve",
+                  "id": "talk-42",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_19"
+                },
+                {
+                  "title": "Faster cofactorization with ECM using mixed representations",
+                  "authors": [
+                    "Cyril Bouvier",
+                    "Laurent Imbert"
+                  ],
+                  "affiliations": "LIRMM, CNRS, Univ Montpellier; LIRMM, CNRS, Univ Montpellier",
+                  "category": "Uncategorized",
+                  "keyWords": "Elliptic curve method, cofactorization, double-base representation, twisted Edwards curve, Montgomery curve, CADO-NFS",
+                  "id": "talk-31",
+                  "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_17"
+                }
+              ],
+              "moderator": "TBD"
+            }
+          ]
+        },
+        {
+          "starttime": "16:00",
+          "endtime": "16:30",
+          "sessions": [
+            {
+              "id": "session-190",
+              "session_title": "Closing Remarks",
+              "moderator": "Aggelos Kiayias, Markulf Kohlweiss, Petros Wallden, Vassilis Zikas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "database_id": "313"
+}

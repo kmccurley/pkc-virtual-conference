@@ -46,7 +46,15 @@
           </h4>
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
-              April 16 2020
+              May 19 2020
+            </h6>
+            <p class="col-7 col-md-8">
+              <a href="program.php">Program is available</a>
+            </p>
+          </div>
+          <div class="customCardRow row">
+            <h6 class="dateTitle col-5 col-md-4">
+              May 18 2020
             </h6>
             <p class="col-7 col-md-8">
               <a href="registration.php">Registration is open</a>
