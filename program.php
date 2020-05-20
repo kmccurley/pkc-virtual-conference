@@ -41,27 +41,39 @@
            </p>
            -->
 
-      <p class="alert alert-danger">
-        The program will be available soon.
-      </p>
-<!--      <p class="alert alert-info">
+      <div class="alert alert-info">
+        <p>
+          The program below is tentative at this time.
+          Links to videos, live sessions, and chat will be added as they become available.
+        </p>
+        <p>
+          Sessions will be conducted as panel discussions in
+        which authors give a very brief overview (5 minutes) of their papers, and then
+        take live questions from the panel moderators and audience.  Links to individual
+          papers have been added below, but Springer requires authentication to read the papers.
+          Your best bet is to try to <a href="https://iacr.org/publications/access.php">login as an IACR member</a> to obtain
+        access.
+          </p>
+<!--
+        Most papers below have links to individual videos prepared by the authors,
+        but there is also a <a href="https://www.youtube.com/playlist?list=PLeeS-3Ml-rpp-srdkwAWDA9hlvEyOZCcx">playlist</a>
+        on <a href="https://youtube.com/TheIACR">the IACR YouTube channel</a>, and there will be live streaming there
+        as well.
+        </p>
+<!--        <p>
+          The program below has links to chat streams on individual sessions, but there is also
+          a <a href="https://iacr.org/virtualconferences/?dest=YU52Q0NBbVMyR3NaVmUwMnFLRjdHNUZYTWtTa1JCaDcrWTg3NUU5WU0yQ0xHbmZ1R2JrZEJsWVppTzdSdnhJSw%3D%3D&iv=5KMMgmAtaYA0TOIlQkhgiw%3D%3D&ivlen=16&conf=pkc2020&auth=e71dea793855f195b746d4d8890d0f313236e1f2a25588429a16722aae9d461f">general stream</a> if
+          you want to start there with chat.
+          Links to Zoom webinars will appear on Sunday
+        </p>-->
+      </div>
+      <p class="alert alert-info">
         <strong>Your timezone appears to be <span id="timezone"></span>.
           Times in the schedule are shown in your local timezone. Dates are
-          in UTC.
+          in UTC. If the times seem inconvenient, keep in mind that this is an
+          international conference with a European-centric schedule.
         </strong>
-      </p>-->
-      <!-- 
-      <div class="row">
-        <div class="col-12 col-md-10 mx-auto">
-          <h3 class="alert alert-warning text-center">Currently happening: <a href="#session-36">Panel Discussion: Attacks</a></h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-12 col-md-10 mx-auto">
-          <h3 class="alert alert-warning text-center">Coming up in <span class="" id="countdown"></span>: <a href="#session-38">Panel Discussion: Public Key Cryptography</a></h3>
-        </div>
-      </div>
-      -->
+      </p>
       <div class="row">
         <div id="renderedProgram" class="col-12">
           <!-- Handlebars script that will render the program template based on the program.json file -->
@@ -80,21 +92,25 @@
 
             {{#each days}}
             <div class="row" id="day-{{date}}">
-              <div class="col-12">
+              <!-- This is broken if there are two tracks -->
+              <div class="col-12 mb-3">
                 {{#if @first}}
                 {{else}}
                 <hr />
                 {{/if}}
                 <h3 class="pageSubtitle">
-                  {{formatDate date}} (UTC date)
+                  {{formatDate date}}
+                  <br class="d-sm-none">
+                <small>(dates may differ in your timezone)</small>
                 </h3>
               </div>
             </div>
             {{#each timeslots}}
             <div class="row">
-              <div class="col-2">
+              <div class="col-sm-2">
                 <p class="timeSlot text-center" title="UTC: {{../date}} {{starttime}}-{{endtime}}">
                   {{localstarttime}} <br>to<br> {{localendtime}}<br>
+                <small class="text-center">(UTC: {{starttime}}-{{endtime}})</small>
                 </p>
               </div>
               {{#if twosessions}}
@@ -108,7 +124,7 @@
                   </h5>
                   {{#if sessions.0.location.name}}
                   <p class="dualTrackDescr">
-                    {{sessions.0.location.name}}
+                    {{{sessions.0.location.name}}}
                   </p>
                   {{/if}}
                   {{#if sessions.0.moderator}}
@@ -127,17 +143,17 @@
                   </p>
                   {{#if paperUrl}}
                   <span class="talkMedia">
-                    Media: &nbsp; <a href="{{paperUrl}}"><img class="talkMediaIcon" src="images/icons/file.svg" title="Paper"></a>
+                    Media: &nbsp; <a target="_blank" href="{{paperUrl}}"><img class="talkMediaIcon" src="images/icons/file.svg" title="Paper"></a>
                   </span>
                   {{/if}}
                   {{#if slidesUrl}}
                   <span class="talkMedia">
-                    &nbsp; <a href="{{slidesUrl}}"><img class="talkMediaIcon" src="images/icons/presentation.svg" title="Slides"></a>
+                    &nbsp; <a target="_blank" href="{{slidesUrl}}"><img class="talkMediaIcon" src="images/icons/presentation.svg" title="Slides"></a>
                   </span>
                   {{/if}}
                   {{#if videoUrl}}
                   <span class="talkMedia">
-                    &nbsp; <a href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/video.svg" title="Video"></a>
+                    &nbsp; <a target="_blank" href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/video.svg" title="Video"></a>
                   </span>
                   {{/if}}
                   {{/each}}
@@ -159,7 +175,7 @@
                   </h5>
                   {{#if sessions.1.location.name}}
                   <p class="dualTrackDescr">
-                    {{sessions.1.location.name}}
+                    {{{sessions.0.location.name}}}
                   </p>
                   {{/if}}
                   {{#if sessions.1.moderator}}
@@ -178,19 +194,24 @@
                   </p>
                   {{#if paperUrl}}
                   <span class="talkMedia">
-                    Media: &nbsp; <a href="{{paperUrl}}"><img class="talkMediaIcon" src="images/icons/file.svg" title="Paper"></a>
+                    Media: &nbsp; <a target="_blank" href="{{paperUrl}}"><img class="talkMediaIcon" src="images/icons/file.svg" title="Paper"></a>
                   </span>
                   {{/if}}
                   {{#if slidesUrl}}
                   <span class="talkMedia">
-                    &nbsp; <a href="{{slidesUrl}}"><img class="talkMediaIcon" src="images/icons/presentation.svg" title="Slides"></a>
+                    &nbsp; <a target="_blank" href="{{slidesUrl}}"><img class="talkMediaIcon" src="images/icons/presentation.svg" title="Slides"></a>
+                  </span>
+                  {{/if}}
+                  {{#if videoUrl}}
+                  <span class="talkMedia">
+                    &nbsp; <a target="_blank" href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/video.svg" title="Video"></a>
                   </span>
                   {{/if}}
                   {{/each}}
                 </div>
               </div>
               {{else}}
-              <div class="col-10">
+              <div class="col-sm-10">
                 <div class="mutualEvent">
                   <h4 id="{{sessions.0.id}}">
                     {{sessions.0.session_title}}
@@ -209,7 +230,7 @@
                   {{/if}}
                   {{#if sessions.0.location.name}}
                   <p class="eventDescr">
-                    {{sessions.0.location.name}}
+                    {{{sessions.0.location.name}}}
                   </p>
                   {{/if}}
                   {{#if sessions.0.moderator}}
@@ -228,12 +249,17 @@
                   </p>
                   {{#if paperUrl}}
                   <span class="talkMedia">
-                    Media: &nbsp; <a href="{{paperUrl}}"><img class="talkMediaIcon" src="images/icons/file.svg" title="Paper"></a>
+                    Media: &nbsp; <a target="_blank" href="{{paperUrl}}"><img class="talkMediaIcon" src="images/icons/file.svg" title="Paper"></a>
                   </span>
                   {{/if}}
                   {{#if slidesUrl}}
                   <span class="talkMedia">
-                    &nbsp; <a href="{{slidesUrl}}"><img class="talkMediaIcon" src="images/icons/presentation.svg" title="Slides"></a>
+                    &nbsp; <a target="_blank" href="{{slidesUrl}}"><img class="talkMediaIcon" src="images/icons/presentation.svg" title="Slides"></a>
+                  </span>
+                  {{/if}}
+                  {{#if videoUrl}}
+                  <span class="talkMedia">
+                    &nbsp; <a target="_blank" href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/video.svg" title="Video"></a>
                   </span>
                   {{/if}}
                   {{/each}}
@@ -258,7 +284,7 @@
     <script src="./js/tooltips.js"></script>
     <script src="https://iacr.org/libs/js/moment/moment.js"></script>
     <script src="https://iacr.org/libs/js/moment/moment-timezone-with-data-10-year-range.js"></script>
-    <script src="./js/program.js"></script>
+    <script src="./js/program.js?v=4"></script>
     <script>
       const now = new Date();
       let offset = now.getTimezoneOffset();
