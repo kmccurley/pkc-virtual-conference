@@ -14,7 +14,7 @@
         "id": "category-0"
       }
     ],
-    "uniqueIDIndex": 190
+    "uniqueIDIndex": 194
   },
   "days": [
     {
@@ -238,6 +238,17 @@
               "moderator": "TBD"
             }
           ]
+        },
+        {
+          "starttime": "15:50",
+          "endtime": "16:50",
+          "sessions": [
+            {
+              "id": "session-191",
+              "session_title": "Social Hour",
+              "moderator": "Join other attendees in small video rooms for conversation"
+            }
+          ]
         }
       ]
     },
@@ -363,6 +374,17 @@
                 }
               ],
               "id": "session-161"
+            }
+          ]
+        },
+        {
+          "starttime": "15:20",
+          "endtime": "16:20",
+          "sessions": [
+            {
+              "id": "session-192",
+              "session_title": "Social Hour",
+              "moderator": "Join other attendees in a small video chatrooms."
             }
           ]
         }
@@ -570,6 +592,17 @@
                 }
               ],
               "moderator": "TBD"
+            }
+          ]
+        },
+        {
+          "starttime": "16:00",
+          "endtime": "17:00",
+          "sessions": [
+            {
+              "id": "session-193",
+              "session_title": "Social Hour",
+              "moderator": "Join other attendees in small video chat rooms"
             }
           ]
         }
@@ -831,6 +864,17 @@
               "id": "session-190",
               "session_title": "Closing Remarks",
               "moderator": "Aggelos Kiayias, Markulf Kohlweiss, Petros Wallden, Vassilis Zikas"
+            }
+          ]
+        },
+        {
+          "starttime": "16:30",
+          "endtime": "17:30",
+          "sessions": [
+            {
+              "id": "session-194",
+              "session_title": "Social Hour",
+              "moderator": "Join other attendees in the last send-off social hour in video chat rooms"
             }
           ]
         }

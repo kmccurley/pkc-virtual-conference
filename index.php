@@ -46,6 +46,14 @@
           </h4>
           <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
+              May 23 2020
+            </h6>
+            <p class="col-7 col-md-8">
+              chat.iacr.org is refreshed</a>
+            </p>
+          </div>
+          <div class="customCardRow row">
+            <h6 class="dateTitle col-5 col-md-4">
               May 19 2020
             </h6>
             <p class="col-7 col-md-8">

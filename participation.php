@@ -68,10 +68,10 @@
             Chat
           </h4>
           <p>
-            Much like at a face-to-face conference, we know that the best conversations can happen in the hallways or at coffee breaks. We encourage you to make use of the Slack workspace we have set up to connect with other conference attendees. There are a variety of channels, organized by topic.
+            Much like at a face-to-face conference, we know that the best conversations can happen in the hallways or at coffee breaks. We encourage you to make use of the Zulip instance we have set up to connect with other conference attendees. There are a variety of channels, organized by topic.
           </p>
           <div class="d-md-flex justify-content-center">
-            <a href="#" class="btn btn-warning">Join the chat</a>
+            <a href="https://chat.iacr.org/#narrow/stream/32-PKC2020-general" class="btn btn-warning">Join the chat</a>
           </div>
         </div>
 
@@ -94,10 +94,10 @@
           <p>
             If you cannot participate live, you will still have access to all talks on our YouTube channel. The authors have pre-recorded their talks and you can view them at any time. Additionally, there will be copies of the live Q&amp;A sessions available to watch.
           </p>
-          <div class="d-md-flex justify-content-around">
+<!--          <div class="d-md-flex justify-content-around">
             <a href="#" class="btn btn-warning">Talks Playlist</a>
             <a href="#" class="btn btn-warning">Q&amp;A Playlist</a>
-          </div>
+          </div>-->
         </div>
       </div>
 
@@ -149,7 +149,7 @@
         How do I ask a question during the live Q&amp;A sessions?
       </h4>
       <p>
-        We strongly encourage you to use the Q&amp;A function in Zoom webinar, but we will also make an effort to monitor the corresponding Slack channel.
+        We strongly encourage you to use the Q&amp;A function in Zoom webinar, but we will also make an effort to monitor the corresponding Zulip stream.
       </p>
 
       <h4 class="subSubtitle">
@@ -159,11 +159,11 @@
         Unfortunately, due to the wide variety of time zones IACR members live in, we cannot accommodate everyone. We strongly encourage those who cannot attend live events to still participate in the conference asynchronously.
       </p>
       <p>
-        Live Q&amp;A sessions and invited talks are streamed to YouTube and available for viewing after the fact. You can also watch any of the pre-recorded talks on YouTube, or participate in chat via Slack. If you don't want to watch the talks alone, you could host a watch party for others in your time zone.
+        Live Q&amp;A sessions and invited talks are streamed to YouTube and available for viewing after the fact. You can also watch any of the pre-recorded talks on YouTube, or participate in chat via Zulip. If you don't want to watch the talks alone, you could host a watch party for others in your time zone.
       </p>
 
       <h4 class="subSubtitle">
-        Zoom/Slack/YouTube have security and privacy issues. Does this mean the IACR endorses these technologies?
+        Zoom and YouTube have security and privacy issues. Does this mean the IACR endorses these technologies?
       </h4>
       <p>
         No. There was no perfect solution available, and we had a very quick turnaround time, so we opted for commercial options that had a high degree of reliability while offering the best user experience. The IACR acknowledges the security and privacy problems of each of these technologies, and our use of them is not to be considered an endorsement.
