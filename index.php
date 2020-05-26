@@ -49,7 +49,7 @@
               May 23 2020
             </h6>
             <p class="col-7 col-md-8">
-              chat.iacr.org is refreshed</a>
+              <a href="https://chat.iacr.org/">chat.iacr.org</a> is refreshed, and accounts from Eurocrypt 2020 have been retained.
             </p>
           </div>
           <div class="customCardRow row">
