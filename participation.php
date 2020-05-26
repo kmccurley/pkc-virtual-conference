@@ -12,7 +12,7 @@
     </title>
     <style>
       .tt-text {
-      font-family: monospace;
+/*      font-family: monospace;*/
       }
     </style>
   </head>
@@ -76,14 +76,14 @@
       <div class="row">
         <div class="col-md-6 mx-lg-auto col-lg-5 col-xl-4 mb-md-4">
           <h4 class="subSubtitle text-md-center">
-            Webinar
+            Live Sessions
           </h4>
           <p>
-            We will be holding live Q&amp;A panels with authors
+            We will be holding live Q&amp;A panels over Zoom with authors
             multiple times daily. At these panels, attendees will be
             able to ask questions of authors about their work, or to
             encourage interesting conversation amongst authors. These
-            Q&amp;As will be livestreamed on our YouTube channel and
+            Q&amp;As will also be livestreamed on our YouTube channel and
             are available for later viewing.
           </p>
         </div>
@@ -96,7 +96,7 @@
             to all talks on our YouTube channel. The authors have
             pre-recorded their talks and you can view them at any
             time. Additionally, there will be copies of the live
-            Q&amp;A sessions available to watch.
+            sessions available to watch.
           </p>
           <!--          <div class="d-md-flex justify-content-around">
                <a href="#" class="btn btn-warning">Talks Playlist</a>
