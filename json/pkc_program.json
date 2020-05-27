@@ -1,5 +1,5 @@
 {
-  "name": "PKC 2020 with paper URLs",
+  "name": "PKC 2020 with URLs and moderators",
   "config": {
     "default_track_locations": [
       {
@@ -14,7 +14,7 @@
         "id": "category-0"
       }
     ],
-    "uniqueIDIndex": 190
+    "uniqueIDIndex": 194
   },
   "days": [
     {
@@ -118,7 +118,7 @@
                   "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_6"
                 }
               ],
-              "moderator": "TBD"
+              "moderator": "Moderators: Junqing Gong, Ryo Nishimaki"
             }
           ]
         },
@@ -235,7 +235,18 @@
                   "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_14"
                 }
               ],
-              "moderator": "TBD"
+              "moderator": "Moderators: Dario Fiore, Marc Fischlin"
+            }
+          ]
+        },
+        {
+          "starttime": "15:50",
+          "endtime": "16:50",
+          "sessions": [
+            {
+              "id": "session-191",
+              "session_title": "Social Hour",
+              "moderator": "Join other attendees in small video rooms for conversation"
             }
           ]
         }
@@ -249,7 +260,7 @@
           "starttime": "13:00",
           "sessions": [
             {
-              "moderator": "Aggelos Kiayias",
+              "moderator": "Moderator: Aggelos Kiayias",
               "session_title": "Invited talk",
               "id": "session-158",
               "talks": [
@@ -281,7 +292,7 @@
           "starttime": "14:20",
           "sessions": [
             {
-              "moderator": "TBD",
+              "moderator": "Moderators: Omkant Pandey, Carla Rafols",
               "session_title": "Proofs and Arguments",
               "talks": [
                 {
@@ -365,6 +376,17 @@
               "id": "session-161"
             }
           ]
+        },
+        {
+          "starttime": "15:20",
+          "endtime": "16:20",
+          "sessions": [
+            {
+              "id": "session-192",
+              "session_title": "Social Hour",
+              "moderator": "Join other attendees in a small video chatrooms."
+            }
+          ]
         }
       ]
     },
@@ -376,7 +398,7 @@
           "starttime": "13:00",
           "sessions": [
             {
-              "moderator": "Aggelos Kiayias",
+              "moderator": "Moderator: Aggelos Kiayias",
               "session_title": "PKC Test of Time Award Ceremony",
               "id": "session-169"
             }
@@ -464,7 +486,7 @@
                   "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_15"
                 }
               ],
-              "moderator": "TBD"
+              "moderator": "Moderators: Serge Vaudenay, Frederic Vercauteren"
             }
           ]
         },
@@ -569,7 +591,18 @@
                   "paperUrl": "https://dx.doi.org/10.1007/978-3-030-45388-6_13"
                 }
               ],
-              "moderator": "TBD"
+              "moderator": "Moderators: Gilad Asharov, Emmanuela Orsini"
+            }
+          ]
+        },
+        {
+          "starttime": "16:00",
+          "endtime": "17:00",
+          "sessions": [
+            {
+              "id": "session-193",
+              "session_title": "Social Hour",
+              "moderator": "Join other attendees in small video chat rooms"
             }
           ]
         }
@@ -662,7 +695,7 @@
                   "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_21"
                 }
               ],
-              "moderator": "TBD"
+              "moderator": "Moderators: Daniele Venturi, Thomas Zacharias"
             }
           ]
         },
@@ -758,7 +791,7 @@
                   "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45374-9_21"
                 }
               ],
-              "moderator": "TBD"
+              "moderator": "Moderators: Thomas Prest, Simona Samardjiska"
             }
           ]
         },
@@ -819,7 +852,7 @@
                   "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_17"
                 }
               ],
-              "moderator": "TBD"
+              "moderator": "Moderators: Cristopher Petit, Reiner Steinwadt"
             }
           ]
         },
@@ -833,9 +866,20 @@
               "moderator": "Aggelos Kiayias, Markulf Kohlweiss, Petros Wallden, Vassilis Zikas"
             }
           ]
+        },
+        {
+          "starttime": "16:30",
+          "endtime": "17:30",
+          "sessions": [
+            {
+              "id": "session-194",
+              "session_title": "Social Hour",
+              "moderator": "Join other attendees in the last send-off social hour in video chat rooms"
+            }
+          ]
         }
       ]
     }
   ],
-  "database_id": "313"
+  "database_id": "315"
 }

@@ -11,8 +11,10 @@
  * Given a URL, return a URL-encoded array with iv, auth, dest parameters.
  */
 require('/var/www/data/lib.php');
+require_once('creds.php');
 function proxyUrl($tablename, $url) {
-  $key = '2021lwsJlS_^';
+  global $encrypt_key;
+  $key = $encrypt_key;
   $cipher = 'AES-256-CBC';
   $ivlen = openssl_cipher_iv_length($cipher);
   $iv = openssl_random_pseudo_bytes($ivlen);
@@ -26,9 +28,10 @@ function proxyUrl($tablename, $url) {
   return 'https://iacr.org/virtualconferences/?' . $args;
 }
 
-$confname = 'eurocrypt2020';
+$confname = 'pkc2020';
 
 $editorData = json_decode(file_get_contents('json/pkc_program.json'), TRUE);
+//$editorData = json_decode(file_get_contents('https://iacr.org/tools/program/ajax.php?id=313&iacrref=foo'), TRUE);
 $extraLinks = json_decode(file_get_contents('json/extraLinks.json'), TRUE);
 $youtube = $extraLinks['youtube'];
 $slides = $extraLinks['slides'];

@@ -45,6 +45,7 @@
         <p>
           The program below is tentative at this time.
           Links to videos, live sessions, and chat will be added as they become available.
+          Additional social activities are also planned.
         </p>
         <p>
           Sessions will be conducted as panel discussions in
