@@ -36,10 +36,16 @@ $extraLinks = json_decode(file_get_contents('json/extraLinks.json'), TRUE);
 $youtube = $extraLinks['youtube'];
 $slides = $extraLinks['slides'];
 $zoom = $extraLinks['zoom'];
+$misc = $extraLinks['misc'];
 header('Content-Type: application/json');
 foreach($editorData['days'] as $dayindex => &$day) {
   foreach ($day['timeslots'] as $timeslotindex => &$timeslot) {
     foreach($timeslot['sessions'] as $sessionindex => &$session) {
+      if (isset($misc[$session['id']])) {
+        $obj = $misc[$session['id']];
+        $session['miscUrl'] = array('url' => proxyUrl($confname, $obj['url']),
+                                    'title' => $obj['title']);
+      }
       if (isset($zoom[$session['id']])) {
         $session['zoomUrl'] = proxyUrl($confname, $zoom[$session['id']]);
       }
