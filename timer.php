@@ -36,6 +36,11 @@
       footer {
         display: none;
       }
+      div#clockbg {
+      background-color: rgba(255,255,255,.8);
+      padding: .5rem;
+      border-radius: 10px;
+      }
     </style>
   </head>
   <body class="home">
@@ -43,12 +48,12 @@
 
     <header id="headerImage">
       <div id="headerGradient" class="d-flex justify-content-between">
-        <h1 class="mt-4 ml-5">
+        <h1 class="mt-4 ml-5 display-3">
           PKC 2020
         </h1>
-        <div id="clockdiv" class="d-flex w-50 mt-4 justify-content-center">
-          <h3 class="pt-2 mr-4">Time until session starts:</h3>
-          <div class="px-1 w-25">
+      <div id="clockdiv" class="mt-4 justify-content-center mr-4">
+          <div id="clockbg">
+            <span class="mr-3">Time until session starts:</span>
             <span class="minutes"></span>:<span class="seconds"></span>
           </div>
         </div>
