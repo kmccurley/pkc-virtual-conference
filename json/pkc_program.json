@@ -246,7 +246,10 @@
             {
               "id": "session-191",
               "session_title": "Social Hour (breakout rooms)",
-              "moderator": "Join other attendees in small video rooms for conversation"
+              "moderator": "Join other attendees in small video rooms for conversation",
+              "location": {
+                "name": "This Zoom link is shared with the previous session"
+              }
             }
           ]
         }
@@ -384,7 +387,7 @@
             {
               "id": "session-192",
               "session_title": "Virtual Social Hour ",
-              "moderator": "A variety of experiences will be available"
+              "moderator": "\"Fasten your seat belts. It's going to be a bumpy night.\""
             }
           ]
         }
@@ -602,7 +605,10 @@
             {
               "id": "session-193",
               "session_title": "Social Hour (breakout rooms)",
-              "moderator": "Join other attendees in small video chat rooms"
+              "moderator": "Join other attendees in small video chat rooms",
+              "location": {
+                "name": "This Zoom link is shared with the previous session"
+              }
             }
           ]
         }
