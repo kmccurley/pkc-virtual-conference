@@ -7,11 +7,6 @@ body {
   background-color: #FEFDFB;
 }
 
-a {
-    /* We need something for contrast. The default doesn't work. */
-    color: blue;
-}
-
 /***** Nav (in /includes/nav.php) *****/
 nav#mainmenu {
   background-color: #FEFDFB;
@@ -71,4 +66,9 @@ nav#mainmenu {
 .customCardFooter {
   /* NOTE: typically this is a more transparent version of the card header bg color */
   background-color: rgba(203, 131, 30, 0.1);
+}
+
+.customCardFooter a {
+  /* NOTE: two shades darker than usual a color for this theme, for better contrast */
+  color: #0B5B2E;
 }
