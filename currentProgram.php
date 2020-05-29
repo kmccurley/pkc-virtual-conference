@@ -36,6 +36,7 @@ $extraLinks = json_decode(file_get_contents('json/extraLinks.json'), TRUE);
 $youtube = $extraLinks['youtube'];
 $slides = $extraLinks['slides'];
 $zoom = $extraLinks['zoom'];
+// These are a hack for PKC.
 $misc = $extraLinks['misc'];
 header('Content-Type: application/json');
 foreach($editorData['days'] as $dayindex => &$day) {
