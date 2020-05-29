@@ -68,7 +68,6 @@ nav#mainmenu {
   background-color: rgba(203, 131, 30, 0.1);
 }
 
-.customCardFooter a {
-  /* NOTE: two shades darker than usual a color for this theme, for better contrast */
-  color: #0B5B2E;
+.alert-info a {
+  color: #8A5915;
 }
