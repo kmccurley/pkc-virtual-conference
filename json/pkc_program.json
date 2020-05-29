@@ -14,7 +14,7 @@
         "id": "category-0"
       }
     ],
-    "uniqueIDIndex": 194
+    "uniqueIDIndex": 197
   },
   "days": [
     {
@@ -245,7 +245,7 @@
           "sessions": [
             {
               "id": "session-191",
-              "session_title": "Social Hour",
+              "session_title": "Social Hour (breakout rooms)",
               "moderator": "Join other attendees in small video rooms for conversation"
             }
           ]
@@ -383,8 +383,8 @@
           "sessions": [
             {
               "id": "session-192",
-              "session_title": "Social Hour",
-              "moderator": "Join other attendees in a small video chatrooms."
+              "session_title": "Virtual Social Hour ",
+              "moderator": "A variety of experiences will be available"
             }
           ]
         }
@@ -601,7 +601,7 @@
           "sessions": [
             {
               "id": "session-193",
-              "session_title": "Social Hour",
+              "session_title": "Social Hour (breakout rooms)",
               "moderator": "Join other attendees in small video chat rooms"
             }
           ]
@@ -873,7 +873,7 @@
           "sessions": [
             {
               "id": "session-194",
-              "session_title": "Social Hour",
+              "session_title": "Social Hour (breakout rooms)",
               "moderator": "Join other attendees in the last send-off social hour in video chat rooms"
             }
           ]
