@@ -14,7 +14,7 @@
         "id": "category-0"
       }
     ],
-    "uniqueIDIndex": 194
+    "uniqueIDIndex": 197
   },
   "days": [
     {
@@ -245,8 +245,11 @@
           "sessions": [
             {
               "id": "session-191",
-              "session_title": "Social Hour",
-              "moderator": "Join other attendees in small video rooms for conversation"
+              "session_title": "Social Hour (breakout rooms)",
+              "moderator": "Join other attendees in small video rooms for conversation",
+              "location": {
+                "name": "This Zoom link is shared with the previous session"
+              }
             }
           ]
         }
@@ -383,8 +386,8 @@
           "sessions": [
             {
               "id": "session-192",
-              "session_title": "Social Hour",
-              "moderator": "Join other attendees in a small video chatrooms."
+              "session_title": "Virtual Social Hour ",
+              "moderator": "\"Fasten your seat belts. It's going to be a bumpy night.\""
             }
           ]
         }
@@ -601,8 +604,11 @@
           "sessions": [
             {
               "id": "session-193",
-              "session_title": "Social Hour",
-              "moderator": "Join other attendees in small video chat rooms"
+              "session_title": "Social Hour (breakout rooms)",
+              "moderator": "Join other attendees in small video chat rooms",
+              "location": {
+                "name": "This Zoom link is shared with the previous session"
+              }
             }
           ]
         }
@@ -873,7 +879,7 @@
           "sessions": [
             {
               "id": "session-194",
-              "session_title": "Social Hour",
+              "session_title": "Social Hour (breakout rooms)",
               "moderator": "Join other attendees in the last send-off social hour in video chat rooms"
             }
           ]

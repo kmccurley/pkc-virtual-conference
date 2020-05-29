@@ -1,13 +1,25 @@
 {
-    "zoom": {
-    },
-    "youtube": {
-    },
-    "chat": {
-        "session-148": "https://chat.iacr.org/#narrow/stream/30-general"
-    },
-    "slides": {
+  "misc": {
+    "session-192": {
+        "title": "Join the party",
+        "url": "https://iacr.org/virtualconferences/social"
     }
+  },
+  "chat": {
+    "session-148": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-190": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general"
+  },
+  "zoom": {
+    "session-191": "https://example.com",
+    "session-154": "https://example.com",
+    "session-148": "https://example.com",
+    "session-149": "https://example.com"
+  },
+  "slides": {
+  },
+  "youtube": {
+  }
 }
+
         
         
