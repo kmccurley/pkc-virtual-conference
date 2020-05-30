@@ -231,7 +231,7 @@
                   {{/if}}
                   {{#if sessions.0.miscUrl}}
                   <!-- this is a total hack for pkc to show an image. -->
-                  <!-- <a class="btn btn-info m-3" href="{{sessions.0.miscUrl.url}}">{{sessions.0.miscUrl.title}}</a> --><img src="images/party.png" style="width:32px">
+                  <!-- <a class="btn btn-info m-3" href="{{sessions.0.miscUrl.url}}">{{sessions.0.miscUrl.title}}</a> --><img src="images/party.png" style="width:32px" title="party icon by Oksana Latysheva, color added by Kay McKelly" alt="3 icons of people with streamers overhead">
                   {{/if}}
                   {{#if sessions.0.location.name}}
                   <p class="eventDescr">
