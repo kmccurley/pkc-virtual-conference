@@ -156,7 +156,7 @@
             Social Events
           </h4>
           <p>
-            We have set up a variety of social events for each day at the conference, and have listed them in the program. On Tuesday, we have the more experimental social events, using things like Jitsi, BigBlueButton, and LetsMeet. Otherwise we'll be using breakout rooms on Zoom following the last session of each day.
+            We have set up a variety of social events for each day at the conference, and have listed them in the program. On Tuesday, we have the more experimental social events. Otherwise we'll be using breakout rooms on Zoom following the last session of each day.
           </p>
           <p>
             If you'd like to start your own social events, and want to allow other attendees to join, post a link on Zulip at <span class="tt-text">chat.iacr.org</span>.
