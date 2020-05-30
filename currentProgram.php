@@ -67,9 +67,9 @@ foreach($editorData['days'] as $dayindex => &$day) {
         if (isset($youtube[$talkid])) {
             $talk['videoUrl'] = $youtube[$talkid];
         }
-//        if (isset($slides[$pubkey])) {
-//          $talk['slidesUrl'] = $slides[$pubkey];
-//        }
+        if (isset($slides[$talkid])) {
+          $talk['slidesUrl'] = $slides[$talkid];
+        }
       }
       if ($session['talks']) {
         $session['session_url'] = 'participation.php#attendWebinar';
