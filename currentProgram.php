@@ -63,16 +63,13 @@ foreach($editorData['days'] as $dayindex => &$day) {
       }
       foreach($session['talks'] as $talkindex => &$talk) {
           //      $talk['slidesUrl'] = proxyUrl($confname, 'https://iacr.org/submit/files/slides/2020/eurocrypt/kdev/2/slides.pdf');
-        if (isset($talk['pubkey'])) {
-          $pubkey = $talk['pubkey'];
-          if (isset($youtube[$pubkey])) {
-            $talk['videoUrl'] = $youtube[$pubkey];
-          }
-          if (isset($slides[$pubkey])) {
-            $talk['slidesUrl'] = $slides[$pubkey];
-          }
+        $talkid = $talk['id'];
+        if (isset($youtube[$talkid])) {
+            $talk['videoUrl'] = $youtube[$talkid];
         }
-        //$talk['videoUrl'] = proxyUrl($confname, 'https://iacr.org/submit/files/slides/2020/eurocrypt/kdev/2/slides.pdf');
+//        if (isset($slides[$pubkey])) {
+//          $talk['slidesUrl'] = $slides[$pubkey];
+//        }
       }
       if ($session['talks']) {
         $session['session_url'] = 'participation.php#attendWebinar';
