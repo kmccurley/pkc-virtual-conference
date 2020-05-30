@@ -83,7 +83,7 @@
             multiple times daily. At these panels, attendees will be
             able to ask questions of authors about their work, or to
             encourage interesting conversation amongst authors. These
-            Q&amp;As will also be livestreamed on our YouTube channel and
+            Q&amp;As will also be livestreamed on our <a href="https://www.youtube.com/user/TheIACR">YouTube channel</a> and
             are available for later viewing.
           </p>
         </div>
@@ -93,7 +93,7 @@
           </h4>
           <p>
             If you cannot participate live, you will still have access
-            to all talks on our YouTube channel. The authors have
+            to all talks on our <a href="https://www.youtube.com/user/TheIACR">YouTube channel</a>. The authors have
             pre-recorded their talks and you can view them at any
             time. Additionally, there will be copies of the live
             sessions available to watch.
@@ -122,7 +122,7 @@
           <p class="alert alert-info">
             NOTE: email/password from Eurocrypt 2020 has
             been retained, and <span class="tt-text">chat.iacr.org</span>
-            may be accessed from the browser, but also 
+            may be accessed from the browser, but also via
             <a href="https://zulipchat.com/apps/">desktop and mobile apps</a>.
           </p>
           <div class="d-md-flex justify-content-center text-center">
@@ -143,7 +143,7 @@
             encourage discussion and interaction amongst attendees.
             We recommend starting these from Zulip on <span class="tt-text">chat.iacr.org</span>.
           </p>
-          <p class="text-center">How to start a videoconference or watch party in chat.iacr.org (Zulip)</p>
+          <h6 class="text-center font-weight-bold">How to start a videoconference or watch party in chat.iacr.org (Zulip)</h6>
           <img src="images/jitsi.png" class="img-fluid ml-3 border shadow">
 
           <!--          <div class="d-md-flex justify-content-center">
@@ -151,18 +151,29 @@
                </div>-->
         </div>
 
+        <div class="col-md-6 mx-lg-auto col-lg-5 col-xl-4 mb-md-4">
+          <h4 class="subSubtitle text-md-center">
+            Social Events
+          </h4>
+          <p>
+            We have set up a variety of social events for each day at the conference, and have listed them in the program. On Tuesday, we have the more experimental social events. Otherwise we'll be using breakout rooms on Zoom following the last session of each day.
+          </p>
+          <p>
+            If you'd like to start your own social events, and want to allow other attendees to join, post a link on Zulip at <span class="tt-text">chat.iacr.org</span>.
+          </p>
+        </div>
+
       </div>
 
       <h3 id="attendWebinar" class="pageSubtitle mt-4">
-        Attending a Webinar
+        Attending a Session
       </h3>
       <div class="row">
         <div class="col-sm-7">
           <!-- TODO: add after first sentence below (Learn more about the IACR's statement on Zoom <a href="#">here</a>.) -->
           <p>
             We are using Zoom for our live Q&amp;A sessions. <strong>You
-            do not have to install Zoom software to attend a
-            webinar.</strong> If you plan to attend a webinar session
+            do not have to install Zoom software to attend!</strong> If you plan to attend a session
             using your browser, it needs to be one of the following:
           </p>
           <ul>
@@ -170,7 +181,7 @@
               Internet Explorer<sup>*</sup> 10 or higher
             </li>
             <li>
-              Microsoft Edge 38.14393.0.0 or higher
+              Chromium-based Microsoft Edge 80 or higher
             </li>
             <li>
               Google Chrome 53.0.2785 or higher
@@ -179,7 +190,7 @@
               Safari<sup>*</sup> 10.0.602.1.50 or higher
             </li>
             <li>
-              Firefox<sup>*</sup> 49.0 or higher
+              Firefox 76 or higher
             </li>
             <li>
               Chromium (not officially supported by Zoom, but the IACR has tested it and it appears to work similarly to Chrome)
@@ -187,10 +198,7 @@
           </ul>
           <p>
             <small><sup>*</sup>
-              Please note that if you use Safari, Firefox, or Internet
-              Explorer, you will not be able to ask a question using
-              your computer audio. However, you can still ask
-              questions using the text Q&amp;A feature.</small>
+              Please note that Zoom officially recommends Chrome, Edge, or Firefox for full functionality.</small>
           </p>
           <p>
             If you wish to use the desktop client, there are options
@@ -201,7 +209,7 @@
           </p>
         </div>
         <div class="col-sm-5">
-          <p class="text-center">How to enter a webinar with the <a href="https://support.zoom.us/hc/en-us/articles/214629443-Zoom-web-client">web client</a>.</p>
+          <p class="text-center">How to enter a Zoom meeting with the <a href="https://support.zoom.us/hc/en-us/articles/214629443-Zoom-web-client">web client</a>.</p>
           <img src="images/zoom/annoying_zoom_windows.png" class="img-fluid border shadow mb-4">
         </div>
       </div>
@@ -209,7 +217,7 @@
         Do I need a Zoom account?
       </h4>
       <p>
-        We offer entrance to our webinars for both attendees with Zoom
+        We offer entrance to our sessions for both attendees with Zoom
         accounts and those without. When you log in via the browser
         client, Zoom will ask for an email. This does not have to be a
         legitimate email address. However, if you plan to use the
@@ -223,9 +231,7 @@
         How do I ask a question during the live Q&amp;A sessions?
       </h4>
       <p>
-        We strongly encourage you to use the Q&amp;A function in Zoom
-        webinar, but we will also make an effort to monitor the
-        corresponding Zulip stream.
+        We strongly encourage you to use the corresponding Zulip stream on <span class="tt-text">chat.iacr.org</span> or to ask it verbally during the session (when called on by moderators). Note that Zulip allows for other attendees to see your question and upvote it by reacting with emojis. Authors may answer verbally during the session or have a longer discussion on Zulip.
       </p>
 
       <h4 class="subSubtitle">
@@ -242,7 +248,7 @@
         YouTube and available for viewing after the fact. You can also
         watch any of the pre-recorded talks on YouTube, or participate
         in chat via Zulip. If you don't want to watch the talks alone,
-        you could host a watch party for others in your time zone.
+        we suggest you to host a watch party for others in your time zone. Post watch party links on Zulip if you'd like to encourage others to join.
       </p>
 
       <h4 class="subSubtitle">
@@ -258,7 +264,7 @@
         not to be considered an endorsement.
       </p>
       <p>
-        For future IACR virtual events, we hope to be able to host some services on our own servers.
+        For future IACR virtual events, we hope to be able to host more services on our own servers.
       </p>
 
     </main>
