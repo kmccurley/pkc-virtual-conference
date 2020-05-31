@@ -7,13 +7,38 @@
   },
   "chat": {
     "session-148": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
-    "session-190": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general"
+    "session-149": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-154": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-191": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-158": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-161": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-169": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-170": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-167": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-193": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-185": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-187": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-189": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-190": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general",
+    "session-192": "https://chat.iacr.org/#narrow/stream/32-PKC2020-general/topic/TuesdaySocial",
+    "session-194": "https://chat.iacr.org/#narrow/stream/31-VirtualConferences"
   },
   "zoom": {
-    "session-191": "https://example.com",
-    "session-154": "https://example.com",
-    "session-148": "https://example.com",
-    "session-149": "https://example.com"
+    "session-148": "https://us02web.zoom.us/j/81229405789?pwd=dk5NMkd3OFIycks0bUY2Wnh2aUdPUT09",
+    "session-149": "https://us02web.zoom.us/j/81229405789?pwd=dk5NMkd3OFIycks0bUY2Wnh2aUdPUT09",
+    "session-154": "https://us02web.zoom.us/j/84524611798?pwd=SVhyTEkrbThHWkpXT016SWRTWUFqZz09",
+    "session-191": "https://us02web.zoom.us/j/84524611798?pwd=SVhyTEkrbThHWkpXT016SWRTWUFqZz09",
+    "session-158": "https://us02web.zoom.us/j/87866064554?pwd=UHBzSFViUW95THBHUlkvNjkzS3dCdz09",
+    "session-161": "https://us02web.zoom.us/j/81884858892?pwd=N2doTlVHRVNWVEhER1RWVzFZVVNQQT09",
+    "session-169": "https://us02web.zoom.us/j/88419690810?pwd=bWR6SGxSc3JXTjZTL0QvNkw1cy9TZz09",
+    "session-170": "https://us02web.zoom.us/j/85023261135?pwd=ZXpJMG1JVzJaS1hDZUV2aDlES0paZz09",
+    "session-167": "https://us02web.zoom.us/j/87347430160?pwd=cUo5WCs1VEhheEh1QU1QV0VLdSs3QT09",
+    "session-193": "https://us02web.zoom.us/j/87347430160?pwd=cUo5WCs1VEhheEh1QU1QV0VLdSs3QT09",
+    "session-185": "https://us02web.zoom.us/j/89922475931?pwd=MkFrSk95RzFqVjMwS0RHelpTNDhFQT09",
+    "session-187": "https://us02web.zoom.us/j/83510556382?pwd=cnFGTVJTN2RTR3pvdWVvRCtpMU9XZz09",
+    "session-189": "https://us02web.zoom.us/j/85228439997?pwd=eVJMMkxISndmbHhtaysweDhFZDkzQT09",
+    "session-190": "https://us02web.zoom.us/j/85228439997?pwd=eVJMMkxISndmbHhtaysweDhFZDkzQT09",
+    "session-194": "https://us02web.zoom.us/j/85228439997?pwd=eVJMMkxISndmbHhtaysweDhFZDkzQT09"
   },
   "slides": {
       "talk-29": "https://iacr.org/submit/files/slides/2020/pkc/pkc2020/103/slides.pdf",
@@ -29,7 +54,7 @@
       "talk-68": "https://iacr.org/submit/files/slides/2020/pkc/pkc2020/263/slides.pdf",
       "talk-70": "https://iacr.org/submit/files/slides/2020/pkc/pkc2020/274/slides.pdf"
   },
-    "youtube": {
+  "youtube": {
     "talk-71": "https://youtube.com/watch?v=ugb4N6lahuI",
     "talk-35": "https://youtube.com/watch?v=98rxhY6ErvY",
     "talk-38": "https://youtube.com/watch?v=wozA1Ay7BHg",
@@ -72,9 +97,10 @@
     "talk-42": "https://youtube.com/watch?v=Nk69Ltmb5jY",
     "talk-49": "https://youtube.com/watch?v=BCFoNP4DXKQ",
     "talk-45": "https://youtube.com/watch?v=Mjj6JOumDZI",
-    "talk-29": "https://youtube.com/watch?v=1HDkpyV0PbY"
-    },
-    "eprint": {
+    "talk-29": "https://youtube.com/watch?v=1HDkpyV0PbY",
+    "talk-64": "https://youtube.com/watch?v=Rkbg_X0abZc"
+  },
+  "eprint": {
       "talk-29": "https://eprint.iacr.org/2019/1201",
       "talk-30": "https://eprint.iacr.org/2019/1211",
       "talk-31": "https://eprint.iacr.org/2018/669",
