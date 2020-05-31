@@ -156,7 +156,7 @@
                   {{/if}}
                   {{#if videoUrl}}
                   <span class="talkMedia">
-                    &nbsp; <a target="_blank" href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/video.svg" title="Video"></a>
+                    &nbsp; <a target="_blank" href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/videocam-outline.svg" title="Video"></a>
                   </span>
                   {{/if}}
                   {{/each}}
@@ -207,7 +207,7 @@
                   {{/if}}
                   {{#if videoUrl}}
                   <span class="talkMedia">
-                    &nbsp; <a target="_blank" href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/video.svg" title="Video"></a>
+                    &nbsp; <a target="_blank" href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/videocam-outline.svg" title="Video"></a>
                   </span>
                   {{/if}}
                   {{/each}}
@@ -261,7 +261,7 @@
                   </span>
                   {{#if eprint}}
                   <span class="talkMedia">
-                    &nbsp; <a target="_blank" href="{{eprint}}"><img class="talkMediaIcon" src="https://iacr.org/favicon.ico" title="Paper on eprint.iacr.org"></a>
+                    &nbsp; <a target="_blank" href="{{eprint}}"><img class="talkMediaIcon" src="images/icons/lock-open-outline.svg" title="Paper on eprint.iacr.org"></a>
                   </span>
                   {{/if}}
                   {{#if paperUrl}}
@@ -276,7 +276,7 @@
                   {{/if}}
                   {{#if videoUrl}}
                   <span class="talkMedia">
-                    &nbsp; <a target="_blank" href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/video.svg" title="Video"></a>
+                    &nbsp; <a target="_blank" href="{{videoUrl}}"><img class="talkMediaIcon" src="images/icons/videocam-outline.svg" title="Video"></a>
                   </span>
                   {{/if}}
                   {{/each}}
