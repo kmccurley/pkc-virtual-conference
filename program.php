@@ -51,9 +51,11 @@
           Sessions will be conducted as panel discussions in
         which authors give a very brief overview (5 minutes) of their papers, and then
         take live questions from the panel moderators and audience.  Links to individual
-          papers have been added below, but Springer requires authentication to read the papers.
-          Your best bet is to try to <a href="https://iacr.org/publications/access.php">login as an IACR member</a> to obtain
-        access.
+          papers have been added below, but Springer requires authentication to read the papers
+          and they are not currently allowing it for IACR members. As a result we
+          are including ePrint links where they are available.
+<!--          Your best bet is to try to <a href="https://iacr.org/publications/access.php">login as an IACR member</a> to obtain
+        access.-->
           </p>
 <!--
         Most papers below have links to individual videos prepared by the authors,
@@ -231,7 +233,9 @@
                   {{/if}}
                   {{#if sessions.0.miscUrl}}
                   <!-- this is a total hack for pkc to show an image. -->
-                  <!-- <a class="btn btn-info m-3" href="{{sessions.0.miscUrl.url}}">{{sessions.0.miscUrl.title}}</a> --><img src="images/party.png" style="width:32px" title="party icon by Oksana Latysheva, color added by Kay McKelly" alt="3 icons of people with streamers overhead">
+                  <!-- <img src="images/party.png" style="width:48px" title="party icon by Oksana Latysheva, color added by Kay McKelly" alt="3 icons of people with streamers overhead">
+                  <a class="btn btn-info m-3" href="{{sessions.0.miscUrl.url}}">{{sessions.0.miscUrl.title}}</a>-->
+                  <img src="images/party.png" style="width:48px" title="party icon by Oksana Latysheva, color added by Kay McKelly" alt="3 icons of people with streamers overhead">
                   {{/if}}
                   {{#if sessions.0.location.name}}
                   <p class="eventDescr">
@@ -252,9 +256,17 @@
                     <span class="authorName">{{this}}</span>
                     {{/each}}
                   </p>
+                  <span class="talkMedia">
+                    Media: &nbsp;
+                  </span>
+                  {{#if eprint}}
+                  <span class="talkMedia">
+                    &nbsp; <a target="_blank" href="{{eprint}}"><img class="talkMediaIcon" src="https://iacr.org/favicon.ico" title="Paper on eprint.iacr.org"></a>
+                  </span>
+                  {{/if}}
                   {{#if paperUrl}}
                   <span class="talkMedia">
-                    Media: &nbsp; <a target="_blank" href="{{paperUrl}}"><img class="talkMediaIcon" src="images/icons/file.svg" title="Paper"></a>
+                    &nbsp; <a target="_blank" href="{{paperUrl}}"><img class="talkMediaIcon" src="images/icons/file.svg" title="Paper"></a>
                   </span>
                   {{/if}}
                   {{#if slidesUrl}}

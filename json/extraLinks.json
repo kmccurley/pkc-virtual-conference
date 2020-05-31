@@ -30,6 +30,7 @@
       "talk-70": "https://iacr.org/submit/files/slides/2020/pkc/pkc2020/274/slides.pdf"
   },
     "youtube": {
+    "talk-71": "https://youtube.com/watch?v=ugb4N6lahuI",
     "talk-35": "https://youtube.com/watch?v=98rxhY6ErvY",
     "talk-38": "https://youtube.com/watch?v=wozA1Ay7BHg",
     "talk-40": "https://youtube.com/watch?v=tKqqLOnmzTc",
@@ -72,7 +73,46 @@
     "talk-49": "https://youtube.com/watch?v=BCFoNP4DXKQ",
     "talk-45": "https://youtube.com/watch?v=Mjj6JOumDZI",
     "talk-29": "https://youtube.com/watch?v=1HDkpyV0PbY"
-  }
+    },
+    "eprint": {
+      "talk-29": "https://eprint.iacr.org/2019/1201",
+      "talk-30": "https://eprint.iacr.org/2019/1211",
+      "talk-31": "https://eprint.iacr.org/2018/669",
+      "talk-33": "https://eprint.iacr.org/2018/470",
+      "talk-34": "https://eprint.iacr.org/2019/436",
+      "talk-37": "https://eprint.iacr.org/2019/211",
+      "talk-38": "https://eprint.iacr.org/2019/966",
+      "talk-39": "https://eprint.iacr.org/2020/126",
+      "talk-41": "https://eprint.iacr.org/2020/124",
+      "talk-42": "https://eprint.iacr.org/2019/1371",
+      "talk-45": "https://eprint.iacr.org/2019/547",
+      "talk-46": "https://eprint.iacr.org/2019/298",
+      "talk-47": "https://eprint.iacr.org/2020/084",
+      "talk-48": "https://eprint.iacr.org/2018/928",
+      "talk-50": "https://eprint.iacr.org/2019/1288",
+      "talk-51": "https://eprint.iacr.org/2019/510",
+      "talk-52": "https://eprint.iacr.org/2020/120",
+      "talk-53": "https://eprint.iacr.org/2019/532",
+      "talk-55": "https://eprint.iacr.org/2019/696",
+      "talk-57": "https://eprint.iacr.org/2020/075",
+      "talk-58": "https://eprint.iacr.org/2020/616",
+      "talk-62": "https://eprint.iacr.org/2018/877",
+      "talk-64": "https://eprint.iacr.org/2020/090",
+      "talk-65": "https://eprint.iacr.org/2018/1170",
+      "talk-66": "https://eprint.iacr.org/2020/093",
+      "talk-69": "https://eprint.iacr.org/2020/006",
+      "talk-70": "https://eprint.iacr.org/2020/122",
+      "talk-71": "https://eprint.iacr.org/2020/110",
+      "talk-72": "https://eprint.iacr.org/2018/375",
+      "talk-40": "https://eprint.iacr.org/2020/209",
+      "talk-60": "https://eprint.iacr.org/2020/146",
+      "talk-63": "https://eprint.iacr.org/2020/140",
+      "talk-43": "https://eprint.iacr.org/2020/132",
+      "talk-44": "https://eprint.iacr.org/2020/139",
+      "talk-36": "https://eprint.iacr.org/2020/403",
+      "talk-68": "https://eprint.iacr.org/2020/198",
+      "talk-59": "https://eprint.iacr.org/2020/337"
+    }
 }
 
         

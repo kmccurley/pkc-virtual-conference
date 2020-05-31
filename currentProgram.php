@@ -38,6 +38,7 @@ $slides = $extraLinks['slides'];
 $zoom = $extraLinks['zoom'];
 // These are a hack for PKC.
 $misc = $extraLinks['misc'];
+$eprint = $extraLinks['eprint'];
 header('Content-Type: application/json');
 foreach($editorData['days'] as $dayindex => &$day) {
   foreach ($day['timeslots'] as $timeslotindex => &$timeslot) {
@@ -69,6 +70,9 @@ foreach($editorData['days'] as $dayindex => &$day) {
         }
         if (isset($slides[$talkid])) {
           $talk['slidesUrl'] = $slides[$talkid];
+        }
+        if (isset($eprint[$talkid])) {
+          $talk['eprint'] = $eprint[$talkid];
         }
       }
       if ($session['talks']) {
