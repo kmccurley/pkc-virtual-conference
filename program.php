@@ -53,7 +53,7 @@
         take live questions from the panel moderators and audience.  Links to individual
           papers have been added below, but Springer requires authentication to read the papers
           and they are not currently allowing it for IACR members. As a result we
-          are including ePrint links where they are available.
+          are including ePrint links where they are available, shown as <img src="images/icons/lock-open-outline.svg" class="talkMediaIcon">.
 <!--          Your best bet is to try to <a href="https://iacr.org/publications/access.php">login as an IACR member</a> to obtain
         access.-->
           </p>

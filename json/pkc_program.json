@@ -387,7 +387,10 @@
             {
               "id": "session-192",
               "session_title": "Virtual Social Hour ",
-              "moderator": "\"Fasten your seat belts. It's going to be a bumpy night.\""
+              "moderator": "\"Fasten your seat belts. It's going to be a bumpy night.\"",
+              "location": {
+                "name":  "Link will appear on Monday."
+              }
             }
           ]
         }
@@ -869,7 +872,10 @@
             {
               "id": "session-190",
               "session_title": "Closing Remarks",
-              "moderator": "Aggelos Kiayias, Markulf Kohlweiss, Petros Wallden, Vassilis Zikas"
+              "moderator": "Aggelos Kiayias, Markulf Kohlweiss, Petros Wallden, Vassilis Zikas",
+              "location": {
+                "name": "This Zoom link is shared with the previous session"
+              }
             }
           ]
         },
@@ -880,7 +886,10 @@
             {
               "id": "session-194",
               "session_title": "Social Hour (breakout rooms)",
-              "moderator": "Join other attendees in the last send-off social hour in video chat rooms"
+              "moderator": "Join other attendees in the last send-off social hour in video chat rooms",
+              "location": {
+                "name": "This Zoom link is shared with the previous session"
+              }
             }
           ]
         }
