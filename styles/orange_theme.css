@@ -16,8 +16,9 @@ nav#mainmenu {
 
 /***** Header (in /includes/nav.php) *****/
 .headerImg {
-  background-image: url("../images/banners/edinburgh-skyline.png");
+  background-image: url("../images/banners/edinburgh-skyline.jpg");
   background-position: center top;
+  background-size: 100% auto;
 }
 
 .headerGradient {
