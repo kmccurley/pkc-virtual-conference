@@ -16,7 +16,7 @@
       }
       #headerImage {
         background-image:
-        url("images/banners/edinburgh-skyline.png");
+        url("images/banners/edinburgh-skyline.jpg");
         background-position: center top;
         background-size: cover;
         height: 30vh;

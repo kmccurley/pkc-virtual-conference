@@ -387,10 +387,7 @@
             {
               "id": "session-192",
               "session_title": "Virtual Social Hour ",
-              "moderator": "\"Fasten your seat belts. It's going to be a bumpy night.\"",
-              "location": {
-                "name":  "Link will appear on Monday."
-              }
+              "moderator": "\"Fasten your seat belts. It's going to be a bumpy night.\""
             }
           ]
         }
@@ -861,7 +858,7 @@
                   "paperUrl": "http://dx.doi.org/10.1007/978-3-030-45388-6_17"
                 }
               ],
-              "moderator": "Moderators: Cristopher Petit, Reiner Steinwadt"
+              "moderator": "Moderators: Cristophe Petit, Rainer Steinwandt"
             }
           ]
         },
