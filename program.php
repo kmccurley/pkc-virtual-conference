@@ -51,11 +51,11 @@
           Sessions will be conducted as panel discussions in
         which authors give a very brief overview (5 minutes) of their papers, and then
         take live questions from the panel moderators and audience.  Links to individual
-          papers have been added below, but Springer requires authentication to read the papers
-          and they are not currently allowing it for IACR members. As a result we
-          are including ePrint links where they are available, shown as <img src="images/icons/lock-open-outline.svg" class="talkMediaIcon">.
-<!--          Your best bet is to try to <a href="https://iacr.org/publications/access.php">login as an IACR member</a> to obtain
-        access.-->
+          papers have been added below, but Springer requires authentication to read the papers.
+          <!-- and they are not currently allowing it for IACR members. As a result we
+          are including ePrint links where they are available, shown as <img src="images/icons/lock-open-outline.svg" class="talkMediaIcon">.-->
+          You may need to <a href="https://iacr.org/publications/access.php">login as an IACR member</a> to obtain
+        access.
           </p>
 <!--
         Most papers below have links to individual videos prepared by the authors,
@@ -226,13 +226,13 @@
                   <a class="btn btn-info m-3" href="{{sessions.0.youtubeUrl}}">YouTube</a>
                   {{/if}}
                   {{#if sessions.0.miscUrl}}
-                  <img src="images/party.png" style="width:48px" title="party icon by Oksana Latysheva, color added by Kay McKelly" alt="3 icons of people with streamers overhead">
+                  <img src="images/party.png" target="_blank" style="width:48px" title="party icon by Oksana Latysheva, color added by Kay McKelly" alt="3 icons of people with streamers overhead">
                   {{/if}}
                   {{#if sessions.0.chatUrl}}
-                  <a class="btn btn-info m-3" href="{{sessions.0.chatUrl}}">Chat</a>
+                  <a class="btn btn-info m-3" target="_blank" href="{{sessions.0.chatUrl}}">Chat</a>
                   {{/if}}
                   {{#if sessions.0.zoomUrl}}
-                  <a class="btn btn-info m-3" href="{{sessions.0.zoomUrl}}">Zoom room</a>
+                  <a class="btn btn-info m-3" target="_blank" href="{{sessions.0.zoomUrl}}">Zoom room</a>
                   {{/if}}
                   {{#if sessions.0.miscUrl}}
                   <!-- this is a total hack for pkc to show an image. -->

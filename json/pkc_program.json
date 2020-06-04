@@ -403,7 +403,31 @@
             {
               "moderator": "Moderator: Aggelos Kiayias",
               "session_title": "PKC Test of Time Award Ceremony",
-              "id": "session-169"
+                "id": "session-169",
+                "talks": [
+                    {"title": "On the Security of ElGamal Based Encryption",
+                     "authors": [
+                         "Yiannis Tsiounis",
+                         "Moti Yung"
+                     ],
+                     "paperUrl": "https://link.springer.com/chapter/10.1007%2FBFb0054019"
+                    },
+                    {
+                        "title": "A Generalisation, a Simplification and Some Applications of Paillier's Probabilistic Public-Key System",
+                        "authors": [
+                            "Ivan Damgård",
+                            "Mats Jurik"
+                        ],
+                        "paperUrl": "https://link.springer.com/chapter/10.1007%2F3-540-44586-2_9"
+                    },
+                    {
+                        "title": "Threshold Signatures , Multisignatures and Blind Signatures based on the Gap-Diffie-Hellman-Group Signature Scheme",
+                        "authors": [
+                            "Alexandra Boldyreva"
+                        ],
+                        "paperUrl": "https://link.springer.com/chapter/10.1007%2F3-540-36288-6_3"
+                    }
+                ]
             }
           ]
         },
